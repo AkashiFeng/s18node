@@ -22,7 +22,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/khs125/Clean-Slate-Shills/crypto"
+	"github.com/AkashiFeng/s18node/crypto"
 )
 
 // Tests whether a message can be wrapped without any identity or encryption.

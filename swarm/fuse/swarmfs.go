@@ -17,9 +17,10 @@
 package fuse
 
 import (
-	"github.com/khs125/Clean-Slate-Shills/swarm/api"
 	"sync"
 	"time"
+
+	"github.com/AkashiFeng/s18node/swarm/api"
 )
 
 const (

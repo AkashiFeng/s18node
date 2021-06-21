@@ -21,7 +21,7 @@ import (
 	"math/rand"
 	"strings"
 
-	"github.com/khs125/Clean-Slate-Shills/common"
+	"github.com/AkashiFeng/s18node/common"
 )
 
 type Address common.Hash

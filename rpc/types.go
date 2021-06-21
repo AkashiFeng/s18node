@@ -23,7 +23,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/khs125/Clean-Slate-Shills/common/hexutil"
+	"github.com/AkashiFeng/s18node/common/hexutil"
 	"gopkg.in/fatih/set.v0"
 )
 

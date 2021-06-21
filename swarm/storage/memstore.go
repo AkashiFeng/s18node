@@ -22,7 +22,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/khs125/Clean-Slate-Shills/log"
+	"github.com/AkashiFeng/s18node/log"
 )
 
 const (

@@ -21,7 +21,7 @@ package whisperv2
 import (
 	"crypto/ecdsa"
 
-	"github.com/khs125/Clean-Slate-Shills/event/filter"
+	"github.com/AkashiFeng/s18node/event/filter"
 )
 
 // Filter is used to subscribe to specific types of whisper messages.

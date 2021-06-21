@@ -1,0 +1,8 @@
+make.exe: Entering directory `d:/WorkRep/s18node'
+build/env.sh go run build/ci.go install ./cmd/geth
+echo "Done building."
+echo "Run \"/build/bin/geth\" to launch geth."
+make.exe: Leaving directory `d:/WorkRep/s18node'
+ 
+process_begin: CreateProcess(NULL, pwd, ...) failed.
+ 

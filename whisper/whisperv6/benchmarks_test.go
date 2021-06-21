@@ -19,7 +19,7 @@ package whisperv6
 import (
 	"testing"
 
-	"github.com/khs125/Clean-Slate-Shills/crypto"
+	"github.com/AkashiFeng/s18node/crypto"
 )
 
 func BenchmarkDeriveKeyMaterial(b *testing.B) {

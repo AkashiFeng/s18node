@@ -19,7 +19,7 @@ package params
 import (
 	"math/big"
 
-	"github.com/khs125/Clean-Slate-Shills/common"
+	"github.com/AkashiFeng/s18node/common"
 )
 
 // DAOForkBlockExtra is the block header extra-data field to set for the DAO fork

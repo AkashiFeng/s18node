@@ -23,7 +23,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/khs125/Clean-Slate-Shills/log"
+	"github.com/AkashiFeng/s18node/log"
 )
 
 /*

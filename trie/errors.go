@@ -19,7 +19,7 @@ package trie
 import (
 	"fmt"
 
-	"github.com/khs125/Clean-Slate-Shills/common"
+	"github.com/AkashiFeng/s18node/common"
 )
 
 // MissingNodeError is returned by the trie functions (TryGet, TryUpdate, TryDelete)

@@ -20,7 +20,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/khs125/Clean-Slate-Shills/common"
+	"github.com/AkashiFeng/s18node/common"
 	"gopkg.in/karalabe/cookiejar.v2/collections/prque"
 )
 

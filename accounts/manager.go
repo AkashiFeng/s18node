@@ -21,7 +21,7 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/khs125/Clean-Slate-Shills/event"
+	"github.com/AkashiFeng/s18node/event"
 )
 
 // Manager is an overarching account manager that can communicate with various

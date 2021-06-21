@@ -19,7 +19,7 @@
 
 package whisperv2
 
-import "github.com/khs125/Clean-Slate-Shills/crypto"
+import "github.com/AkashiFeng/s18node/crypto"
 
 // Topic represents a cryptographically secure, probabilistic partial
 // classifications of a message, determined as the first (left) 4 bytes of the

@@ -21,7 +21,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/khs125/Clean-Slate-Shills/common"
+	"github.com/AkashiFeng/s18node/common"
 )
 
 func initDbStore(t *testing.T) *DbStore {

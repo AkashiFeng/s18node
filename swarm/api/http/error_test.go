@@ -18,13 +18,14 @@ package http_test
 
 import (
 	"encoding/json"
-	"golang.org/x/net/html"
 	"io/ioutil"
 	"net/http"
 	"strings"
 	"testing"
 
-	"github.com/khs125/Clean-Slate-Shills/swarm/testutil"
+	"golang.org/x/net/html"
+
+	"github.com/AkashiFeng/s18node/swarm/testutil"
 )
 
 func TestError(t *testing.T) {

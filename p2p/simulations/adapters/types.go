@@ -24,12 +24,12 @@ import (
 	"net"
 	"os"
 
+	"github.com/AkashiFeng/s18node/crypto"
+	"github.com/AkashiFeng/s18node/node"
+	"github.com/AkashiFeng/s18node/p2p"
+	"github.com/AkashiFeng/s18node/p2p/discover"
+	"github.com/AkashiFeng/s18node/rpc"
 	"github.com/docker/docker/pkg/reexec"
-	"github.com/khs125/Clean-Slate-Shills/crypto"
-	"github.com/khs125/Clean-Slate-Shills/node"
-	"github.com/khs125/Clean-Slate-Shills/p2p"
-	"github.com/khs125/Clean-Slate-Shills/p2p/discover"
-	"github.com/khs125/Clean-Slate-Shills/rpc"
 )
 
 // Node represents a node in a simulation network which is created by a

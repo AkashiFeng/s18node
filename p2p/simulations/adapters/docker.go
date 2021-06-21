@@ -27,9 +27,9 @@ import (
 	"runtime"
 	"strings"
 
+	"github.com/AkashiFeng/s18node/node"
+	"github.com/AkashiFeng/s18node/p2p/discover"
 	"github.com/docker/docker/pkg/reexec"
-	"github.com/khs125/Clean-Slate-Shills/node"
-	"github.com/khs125/Clean-Slate-Shills/p2p/discover"
 )
 
 // DockerAdapter is a NodeAdapter which runs simulation nodes inside Docker

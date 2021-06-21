@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/khs125/Clean-Slate-Shills/log"
+	"github.com/AkashiFeng/s18node/log"
 )
 
 // CreateIPCListener creates an listener, on Unix platforms this is a unix socket, on

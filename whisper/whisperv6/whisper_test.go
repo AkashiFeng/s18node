@@ -23,7 +23,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/khs125/Clean-Slate-Shills/common"
+	"github.com/AkashiFeng/s18node/common"
 )
 
 func TestWhisperBasic(t *testing.T) {

@@ -5862,7 +5862,7 @@ module.exports = Shh;
  * @author Alex Beregszaszi <alex@rtfs.hu>
  * @date 2016
  *
- * Reference: https://github.com/khs125/Clean-Slate-Shills/blob/swarm/internal/web3ext/web3ext.go#L33
+ * Reference: https://github.com/AkashiFeng/s18node/blob/swarm/internal/web3ext/web3ext.go#L33
  */
 
 "use strict";

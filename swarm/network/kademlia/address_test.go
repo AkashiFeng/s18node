@@ -21,7 +21,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/khs125/Clean-Slate-Shills/common"
+	"github.com/AkashiFeng/s18node/common"
 )
 
 func (Address) Generate(rand *rand.Rand, size int) reflect.Value {

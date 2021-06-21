@@ -20,7 +20,7 @@ import (
 	"html/template"
 	"path"
 
-	"github.com/khs125/Clean-Slate-Shills/swarm/api"
+	"github.com/AkashiFeng/s18node/swarm/api"
 )
 
 type htmlListData struct {

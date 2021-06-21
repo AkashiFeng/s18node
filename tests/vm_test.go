@@ -19,7 +19,7 @@ package tests
 import (
 	"testing"
 
-	"github.com/khs125/Clean-Slate-Shills/core/vm"
+	"github.com/AkashiFeng/s18node/core/vm"
 )
 
 func TestVM(t *testing.T) {

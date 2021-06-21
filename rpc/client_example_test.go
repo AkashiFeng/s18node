@@ -22,7 +22,7 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/khs125/Clean-Slate-Shills/rpc"
+	"github.com/AkashiFeng/s18node/rpc"
 )
 
 // In this example, our client whishes to track the latest 'block number'
