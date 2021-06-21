@@ -21,8 +21,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/khs125/Clean-Slate-Shills/crypto"
-	"github.com/khs125/Clean-Slate-Shills/crypto/ecies"
+	"github.com/AkashiFeng/s18node/crypto"
+	"github.com/AkashiFeng/s18node
 )
 
 func TestEnvelopeOpen(t *testing.T) {

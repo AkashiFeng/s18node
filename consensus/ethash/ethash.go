@@ -32,9 +32,9 @@ import (
 	"unsafe"
 
 	mmap "github.com/edsrzf/mmap-go"
-	"github.com/khs125/Clean-Slate-Shills/consensus"
-	"github.com/khs125/Clean-Slate-Shills/log"
-	"github.com/khs125/Clean-Slate-Shills/rpc"
+	"github.com/AkashiFeng/s18node/consensus"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 	metrics "github.com/rcrowley/go-metrics"
 )
 

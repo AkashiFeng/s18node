@@ -28,8 +28,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/khs125/Clean-Slate-Shills/log"
-	"github.com/khs125/Clean-Slate-Shills/swarm/api"
+	"github.com/AkashiFeng/s18node/log"
+	"github.com/AkashiFeng/s18node
 )
 
 //templateMap holds a mapping of an HTTP error code to a template

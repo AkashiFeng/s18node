@@ -23,12 +23,12 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/khs125/Clean-Slate-Shills/common"
-	"github.com/khs125/Clean-Slate-Shills/common/hexutil"
-	"github.com/khs125/Clean-Slate-Shills/core"
-	"github.com/khs125/Clean-Slate-Shills/eth/downloader"
-	"github.com/khs125/Clean-Slate-Shills/eth/gasprice"
-	"github.com/khs125/Clean-Slate-Shills/params"
+	"github.com/AkashiFeng/s18node/common"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 )
 
 // DefaultConfig contains default settings for use on the Ethereum main net.

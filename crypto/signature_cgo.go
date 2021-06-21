@@ -23,8 +23,8 @@ import (
 	"crypto/elliptic"
 	"fmt"
 
-	"github.com/khs125/Clean-Slate-Shills/common/math"
-	"github.com/khs125/Clean-Slate-Shills/crypto/secp256k1"
+	"github.com/AkashiFeng/s18node/common/math"
+	"github.com/AkashiFeng/s18node
 )
 
 func Ecrecover(hash, sig []byte) ([]byte, error) {

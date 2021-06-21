@@ -27,12 +27,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/khs125/Clean-Slate-Shills/event"
-	"github.com/khs125/Clean-Slate-Shills/node"
-	"github.com/khs125/Clean-Slate-Shills/p2p"
-	"github.com/khs125/Clean-Slate-Shills/p2p/discover"
-	"github.com/khs125/Clean-Slate-Shills/p2p/simulations/adapters"
-	"github.com/khs125/Clean-Slate-Shills/rpc"
+	"github.com/AkashiFeng/s18node/event"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 )
 
 // testService implements the node.Service interface and provides protocols

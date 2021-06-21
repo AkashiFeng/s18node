@@ -24,8 +24,8 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/khs125/Clean-Slate-Shills/common/math"
-	"github.com/khs125/Clean-Slate-Shills/crypto/randentropy"
+	"github.com/AkashiFeng/s18node/common/math"
+	"github.com/AkashiFeng/s18node
 )
 
 const TestCount = 1000

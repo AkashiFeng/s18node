@@ -25,8 +25,8 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/khs125/Clean-Slate-Shills/swarm/api"
-	"github.com/khs125/Clean-Slate-Shills/swarm/testutil"
+	"github.com/AkashiFeng/s18node/swarm/api"
+	"github.com/AkashiFeng/s18node
 )
 
 // TestClientUploadDownloadRaw test uploading and downloading raw data to swarm

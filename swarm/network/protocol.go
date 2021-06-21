@@ -37,12 +37,12 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/khs125/Clean-Slate-Shills/contracts/chequebook"
-	"github.com/khs125/Clean-Slate-Shills/log"
-	"github.com/khs125/Clean-Slate-Shills/p2p"
-	bzzswap "github.com/khs125/Clean-Slate-Shills/swarm/services/swap"
-	"github.com/khs125/Clean-Slate-Shills/swarm/services/swap/swap"
-	"github.com/khs125/Clean-Slate-Shills/swarm/storage"
+	"github.com/AkashiFeng/s18node/contracts/chequebook"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	bzzswap "github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 )
 
 const (

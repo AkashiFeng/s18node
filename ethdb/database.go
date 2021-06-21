@@ -22,8 +22,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/khs125/Clean-Slate-Shills/log"
-	"github.com/khs125/Clean-Slate-Shills/metrics"
+	"github.com/AkashiFeng/s18node/log"
+	"github.com/AkashiFeng/s18node
 	"github.com/syndtr/goleveldb/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/errors"
 	"github.com/syndtr/goleveldb/leveldb/filter"

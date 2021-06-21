@@ -19,11 +19,10 @@ package shhclient
 import (
 	"context"
 
-	"github.com/khs125/Clean-Slate-Shills"
-	"github.com/khs125/Clean-Slate-Shills/common/hexutil"
-	"github.com/khs125/Clean-Slate-Shills/rpc"
-	whisper "github.com/khs125/Clean-Slate-Shills/whisper/whisperv5"
-)
+	"github.com/AkashiFeng/s18node/common/hexutil"
+	"github.com/AkashiFeng/s18node
+	wgithub.com/AkashiFeng/s18node
+)github.cogithub.com/AkashiFeng/s18node
 
 // Client defines typed wrappers for the Whisper v5 RPC API.
 type Client struct {

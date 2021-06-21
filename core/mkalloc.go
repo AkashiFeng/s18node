@@ -34,8 +34,8 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/khs125/Clean-Slate-Shills/core"
-	"github.com/khs125/Clean-Slate-Shills/rlp"
+	"github.com/AkashiFeng/s18node/core"
+	"github.com/AkashiFeng/s18node
 )
 
 type allocItem struct{ Addr, Balance *big.Int }

@@ -22,8 +22,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/khs125/Clean-Slate-Shills/core"
-	"github.com/khs125/Clean-Slate-Shills/log"
+	"github.com/AkashiFeng/s18node/core"
+	"github.com/AkashiFeng/s18node
 	"github.com/olekukonko/tablewriter"
 )
 

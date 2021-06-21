@@ -24,12 +24,12 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/khs125/Clean-Slate-Shills"
-	"github.com/khs125/Clean-Slate-Shills/common"
-	"github.com/khs125/Clean-Slate-Shills/common/hexutil"
-	"github.com/khs125/Clean-Slate-Shills/core/types"
-	"github.com/khs125/Clean-Slate-Shills/rlp"
-	"github.com/khs125/Clean-Slate-Shills/rpc"
+	"github.com/AkashiFeng/s18node"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 )
 
 // Client defines typed wrappers for the Ethereum RPC API.

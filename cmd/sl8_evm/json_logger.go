@@ -21,9 +21,9 @@ import (
 	"io"
 	"time"
 
-	"github.com/khs125/Clean-Slate-Shills/common"
-	"github.com/khs125/Clean-Slate-Shills/common/math"
-	"github.com/khs125/Clean-Slate-Shills/core/vm"
+	"github.com/AkashiFeng/s18node/common"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 )
 
 type JSONLogger struct {

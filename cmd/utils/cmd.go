@@ -26,12 +26,12 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/khs125/Clean-Slate-Shills/core"
-	"github.com/khs125/Clean-Slate-Shills/core/types"
-	"github.com/khs125/Clean-Slate-Shills/internal/debug"
-	"github.com/khs125/Clean-Slate-Shills/log"
-	"github.com/khs125/Clean-Slate-Shills/node"
-	"github.com/khs125/Clean-Slate-Shills/rlp"
+	"github.com/AkashiFeng/s18node/core"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 )
 
 const (

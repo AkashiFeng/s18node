@@ -22,10 +22,10 @@ import (
 	"io"
 	"io/ioutil"
 
-	"github.com/khs125/Clean-Slate-Shills/accounts/keystore"
-	"github.com/khs125/Clean-Slate-Shills/common"
-	"github.com/khs125/Clean-Slate-Shills/core/types"
-	"github.com/khs125/Clean-Slate-Shills/crypto"
+	"github.com/AkashiFeng/s18node/accounts/keystore"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 )
 
 // NewTransactor is a utility method to easily create a transaction signer from

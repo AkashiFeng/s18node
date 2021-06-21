@@ -20,10 +20,10 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/khs125/Clean-Slate-Shills/consensus/ethash"
-	"github.com/khs125/Clean-Slate-Shills/core/vm"
-	"github.com/khs125/Clean-Slate-Shills/ethdb"
-	"github.com/khs125/Clean-Slate-Shills/params"
+	"github.com/AkashiFeng/s18node/consensus/ethash"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 )
 
 // Tests that DAO-fork enabled clients can properly filter out fork-commencing

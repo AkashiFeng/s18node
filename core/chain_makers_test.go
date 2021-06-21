@@ -20,12 +20,12 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/khs125/Clean-Slate-Shills/consensus/ethash"
-	"github.com/khs125/Clean-Slate-Shills/core/types"
-	"github.com/khs125/Clean-Slate-Shills/core/vm"
-	"github.com/khs125/Clean-Slate-Shills/crypto"
-	"github.com/khs125/Clean-Slate-Shills/ethdb"
-	"github.com/khs125/Clean-Slate-Shills/params"
+	"github.com/AkashiFeng/s18node/consensus/ethash"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 )
 
 func ExampleGenerateChain() {

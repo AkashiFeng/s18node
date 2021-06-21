@@ -29,9 +29,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/khs125/Clean-Slate-Shills/common"
-	"github.com/khs125/Clean-Slate-Shills/core"
-	"github.com/khs125/Clean-Slate-Shills/log"
+	"github.com/AkashiFeng/s18node/common"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 	"golang.org/x/crypto/ssh/terminal"
 )
 

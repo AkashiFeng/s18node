@@ -21,8 +21,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/khs125/Clean-Slate-Shills/common"
-	"github.com/khs125/Clean-Slate-Shills/common/mclock"
+	"github.com/AkashiFeng/s18node/common"
+	"github.com/AkashiFeng/s18node
 )
 
 func TestTopicRadius(t *testing.T) {

@@ -26,11 +26,11 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/khs125/Clean-Slate-Shills/common"
-	"github.com/khs125/Clean-Slate-Shills/swarm/api"
-	swarm "github.com/khs125/Clean-Slate-Shills/swarm/api/client"
-	"github.com/khs125/Clean-Slate-Shills/swarm/storage"
-	"github.com/khs125/Clean-Slate-Shills/swarm/testutil"
+	"github.com/AkashiFeng/s18node/common"
+	"github.com/AkashiFeng/s18node
+	swarm "github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 )
 
 func TestBzzrGetPath(t *testing.T) {

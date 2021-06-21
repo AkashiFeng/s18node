@@ -22,8 +22,8 @@ import (
 	"io"
 	"sort"
 
-	"github.com/khs125/Clean-Slate-Shills/cmd/utils"
-	"github.com/khs125/Clean-Slate-Shills/internal/debug"
+	"github.com/AkashiFeng/s18node/cmd/utils"
+	"github.com/AkashiFeng/s18node
 	"gopkg.in/urfave/cli.v1"
 	"strings"
 )

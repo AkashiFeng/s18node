@@ -22,8 +22,8 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/khs125/Clean-Slate-Shills/p2p"
-	"github.com/khs125/Clean-Slate-Shills/p2p/nat"
+	"github.com/AkashiFeng/s18node/p2p"
+	"github.com/AkashiFeng/s18node
 )
 
 const (

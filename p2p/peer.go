@@ -24,11 +24,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/khs125/Clean-Slate-Shills/common/mclock"
-	"github.com/khs125/Clean-Slate-Shills/event"
-	"github.com/khs125/Clean-Slate-Shills/log"
-	"github.com/khs125/Clean-Slate-Shills/p2p/discover"
-	"github.com/khs125/Clean-Slate-Shills/rlp"
+	"github.com/AkashiFeng/s18node/common/mclock"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 )
 
 const (

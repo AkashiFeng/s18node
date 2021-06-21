@@ -26,11 +26,11 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/khs125/Clean-Slate-Shills/common"
-	"github.com/khs125/Clean-Slate-Shills/common/bitutil"
-	"github.com/khs125/Clean-Slate-Shills/crypto"
-	"github.com/khs125/Clean-Slate-Shills/crypto/sha3"
-	"github.com/khs125/Clean-Slate-Shills/log"
+	"github.com/AkashiFeng/s18node/common"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 )
 
 const (

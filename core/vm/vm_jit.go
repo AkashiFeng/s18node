@@ -38,9 +38,9 @@ import (
 	"math/big"
 	"unsafe"
 
-	"github.com/khs125/Clean-Slate-Shills/core/state"
-	"github.com/khs125/Clean-Slate-Shills/crypto"
-	"github.com/khs125/Clean-Slate-Shills/params"
+	"github.com/AkashiFeng/s18node/core/state"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 )
 
 type JitVm struct {

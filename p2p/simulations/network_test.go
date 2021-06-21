@@ -22,8 +22,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/khs125/Clean-Slate-Shills/p2p/discover"
-	"github.com/khs125/Clean-Slate-Shills/p2p/simulations/adapters"
+	"github.com/AkashiFeng/s18node/p2p/discover"
+	"github.com/AkashiFeng/s18node
 )
 
 // TestNetworkSimulation creates a multi-node simulation network with each node

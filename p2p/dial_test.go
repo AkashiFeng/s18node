@@ -24,8 +24,8 @@ import (
 	"time"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/khs125/Clean-Slate-Shills/p2p/discover"
-	"github.com/khs125/Clean-Slate-Shills/p2p/netutil"
+	"github.com/AkashiFeng/s18node/p2p/discover"
+	"github.com/AkashiFeng/s18node
 )
 
 func init() {

@@ -17,8 +17,8 @@
 package core
 
 import (
-	"github.com/khs125/Clean-Slate-Shills/common"
-	"github.com/khs125/Clean-Slate-Shills/core/types"
+	"github.com/AkashiFeng/s18node/common"
+	"github.com/AkashiFeng/s18node
 )
 
 // TxPreEvent is posted when a transaction enters the transaction pool.

@@ -26,9 +26,8 @@ import (
 
 	"bazil.org/fuse"
 	"bazil.org/fuse/fs"
-	"github.com/khs125/Clean-Slate-Shills/log"
-	"github.com/khs125/Clean-Slate-Shills/swarm/storage"
-	"golang.org/x/net/context"
+	"github.com/AkashiFeng/s18node/log"
+	"github.com/AkashiFeng/s18node
 )
 
 const (

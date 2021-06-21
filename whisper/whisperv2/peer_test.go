@@ -20,8 +20,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/khs125/Clean-Slate-Shills/p2p"
-	"github.com/khs125/Clean-Slate-Shills/p2p/discover"
+	"github.com/AkashiFeng/s18node/p2p"
+	"github.com/AkashiFeng/s18node
 )
 
 type testPeer struct {

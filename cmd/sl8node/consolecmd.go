@@ -21,10 +21,10 @@ import (
 	"os/signal"
 	"strings"
 
-	"github.com/khs125/Clean-Slate-Shills/cmd/utils"
-	"github.com/khs125/Clean-Slate-Shills/console"
-	"github.com/khs125/Clean-Slate-Shills/node"
-	"github.com/khs125/Clean-Slate-Shills/rpc"
+	"github.com/AkashiFeng/s18node/cmd/utils"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 	"gopkg.in/urfave/cli.v1"
 )
 
@@ -40,7 +40,7 @@ var (
 		Description: `
 The Geth console is an interactive shell for the JavaScript runtime environment
 which exposes a node admin interface as well as the Ðapp JavaScript API.
-See https://github.com/khs125/Clean-Slate-Shills/wiki/Javascipt-Console.`,
+See https://github.com/AkashiFeng/s18node
 	}
 
 	attachCommand = cli.Command{
@@ -53,7 +53,7 @@ See https://github.com/khs125/Clean-Slate-Shills/wiki/Javascipt-Console.`,
 		Description: `
 The Geth console is an interactive shell for the JavaScript runtime environment
 which exposes a node admin interface as well as the Ðapp JavaScript API.
-See https://github.com/khs125/Clean-Slate-Shills/wiki/Javascipt-Console.
+See https://github.com/AkashiFeng/s18node
 This command allows to open a console on a running geth node.`,
 	}
 
@@ -66,7 +66,7 @@ This command allows to open a console on a running geth node.`,
 		Category:  "CONSOLE COMMANDS",
 		Description: `
 The JavaScript VM exposes a node admin interface as well as the Ðapp
-JavaScript API. See https://github.com/khs125/Clean-Slate-Shills/wiki/Javascipt-Console`,
+JavaScript API. See https://github.com/AkashiFeng/s18node
 	}
 )
 

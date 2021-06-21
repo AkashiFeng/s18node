@@ -17,8 +17,8 @@
 package eth
 
 import (
-	"github.com/khs125/Clean-Slate-Shills/metrics"
-	"github.com/khs125/Clean-Slate-Shills/p2p"
+	"github.com/AkashiFeng/s18node/metrics"
+	"github.com/AkashiFeng/s18node
 )
 
 var (

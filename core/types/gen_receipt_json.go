@@ -7,8 +7,8 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/khs125/Clean-Slate-Shills/common"
-	"github.com/khs125/Clean-Slate-Shills/common/hexutil"
+	"github.com/AkashiFeng/s18node/common"
+	"github.com/AkashiFeng/s18node
 )
 
 func (r Receipt) MarshalJSON() ([]byte, error) {

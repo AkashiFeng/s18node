@@ -23,10 +23,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/khs125/Clean-Slate-Shills/cmd/utils"
-	"github.com/khs125/Clean-Slate-Shills/consensus/ethash"
-	"github.com/khs125/Clean-Slate-Shills/eth"
-	"github.com/khs125/Clean-Slate-Shills/params"
+	"github.com/AkashiFeng/s18node/cmd/utils"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 	"gopkg.in/urfave/cli.v1"
 )
 

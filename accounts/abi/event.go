@@ -21,8 +21,8 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/khs125/Clean-Slate-Shills/common"
-	"github.com/khs125/Clean-Slate-Shills/crypto"
+	"github.com/AkashiFeng/s18node/common"
+	"github.com/AkashiFeng/s18node
 )
 
 // Event is an event potentially triggered by the EVM's LOG mechanism. The Event

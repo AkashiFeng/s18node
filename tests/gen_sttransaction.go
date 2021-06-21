@@ -6,8 +6,8 @@ import (
 	"encoding/json"
 	"math/big"
 
-	"github.com/khs125/Clean-Slate-Shills/common/hexutil"
-	"github.com/khs125/Clean-Slate-Shills/common/math"
+	"github.com/AkashiFeng/s18node/common/hexutil"
+	"github.com/AkashiFeng/s18node
 )
 
 var _ = (*stTransactionMarshaling)(nil)

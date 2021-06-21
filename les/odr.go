@@ -19,10 +19,10 @@ package les
 import (
 	"context"
 
-	"github.com/khs125/Clean-Slate-Shills/core"
-	"github.com/khs125/Clean-Slate-Shills/ethdb"
-	"github.com/khs125/Clean-Slate-Shills/light"
-	"github.com/khs125/Clean-Slate-Shills/log"
+	"github.com/AkashiFeng/s18node/core"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 )
 
 // LesOdr implements light.OdrBackend

@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/khs125/Clean-Slate-Shills/common"
-	"github.com/khs125/Clean-Slate-Shills/rpc"
+	"github.com/AkashiFeng/s18node/common"
+	"github.com/AkashiFeng/s18node
 )
 
 func TestUnmarshalJSONNewFilterArgs(t *testing.T) {

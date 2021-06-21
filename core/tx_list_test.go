@@ -21,8 +21,8 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/khs125/Clean-Slate-Shills/core/types"
-	"github.com/khs125/Clean-Slate-Shills/crypto"
+	"github.com/AkashiFeng/s18node/core/types"
+	"github.com/AkashiFeng/s18node
 )
 
 // Tests that transactions can be added to strict lists and list contents and

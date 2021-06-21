@@ -21,10 +21,10 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/khs125/Clean-Slate-Shills/common"
-	"github.com/khs125/Clean-Slate-Shills/crypto"
-	"github.com/khs125/Clean-Slate-Shills/ethdb"
-	"github.com/khs125/Clean-Slate-Shills/trie"
+	"github.com/AkashiFeng/s18node/common"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 )
 
 // testAccount is the data associated with an account used by the state tests.

@@ -24,10 +24,9 @@ import (
 	"io"
 	"sync"
 
-	"github.com/khs125/Clean-Slate-Shills/bmt"
-	"github.com/khs125/Clean-Slate-Shills/common"
-	"github.com/khs125/Clean-Slate-Shills/crypto/sha3"
-)
+	"github.com/AkashiFeng/s18node/bmt"
+	"github.com/AkashiFeng/s18node
+)ggithub.com/AkashiFeng/s18node
 
 type Hasher func() hash.Hash
 type SwarmHasher func() SwarmHash

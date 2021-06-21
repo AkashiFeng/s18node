@@ -19,9 +19,9 @@ package keystore
 import (
 	"math/big"
 
-	ethereum "github.com/khs125/Clean-Slate-Shills"
-	"github.com/khs125/Clean-Slate-Shills/accounts"
-	"github.com/khs125/Clean-Slate-Shills/core/types"
+	ethereum "github.com/AkashiFeng/s18node"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 )
 
 // keystoreWallet implements the accounts.Wallet interface for the original

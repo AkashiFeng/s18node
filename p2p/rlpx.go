@@ -35,12 +35,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/khs125/Clean-Slate-Shills/crypto"
-	"github.com/khs125/Clean-Slate-Shills/crypto/ecies"
-	"github.com/khs125/Clean-Slate-Shills/crypto/secp256k1"
-	"github.com/khs125/Clean-Slate-Shills/crypto/sha3"
-	"github.com/khs125/Clean-Slate-Shills/p2p/discover"
-	"github.com/khs125/Clean-Slate-Shills/rlp"
+	"github.com/AkashiFeng/s18node/crypto"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 	"github.com/golang/snappy"
 )
 

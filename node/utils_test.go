@@ -22,8 +22,8 @@ package node
 import (
 	"reflect"
 
-	"github.com/khs125/Clean-Slate-Shills/p2p"
-	"github.com/khs125/Clean-Slate-Shills/rpc"
+	"github.com/AkashiFeng/s18node/p2p"
+	"github.com/AkashiFeng/s18node
 )
 
 // NoopService is a trivial implementation of the Service interface.

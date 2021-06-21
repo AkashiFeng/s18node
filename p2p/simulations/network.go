@@ -23,11 +23,11 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/khs125/Clean-Slate-Shills/event"
-	"github.com/khs125/Clean-Slate-Shills/log"
-	"github.com/khs125/Clean-Slate-Shills/p2p"
-	"github.com/khs125/Clean-Slate-Shills/p2p/discover"
-	"github.com/khs125/Clean-Slate-Shills/p2p/simulations/adapters"
+	"github.com/AkashiFeng/s18node/event"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 )
 
 // NetworkConfig defines configuration options for starting a Network

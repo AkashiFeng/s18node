@@ -24,10 +24,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/khs125/Clean-Slate-Shills/common"
-	"github.com/khs125/Clean-Slate-Shills/crypto"
-	whisper "github.com/khs125/Clean-Slate-Shills/whisper/whisperv5"
-)
+	"github.com/AkashiFeng/s18node/common"
+	wgithub.com/AkashiFeng/s18node
+)github.cogithub.com/AkashiFeng/s18node
 
 const powRequirement = 0.00001
 

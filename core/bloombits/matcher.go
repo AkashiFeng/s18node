@@ -26,8 +26,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/khs125/Clean-Slate-Shills/common/bitutil"
-	"github.com/khs125/Clean-Slate-Shills/crypto"
+	"github.com/AkashiFeng/s18node/common/bitutil"
+	"github.com/AkashiFeng/s18node
 )
 
 // bloomIndexes represents the bit indexes inside the bloom filter that belong

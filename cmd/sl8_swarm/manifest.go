@@ -24,9 +24,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/khs125/Clean-Slate-Shills/cmd/utils"
-	"github.com/khs125/Clean-Slate-Shills/swarm/api"
-	swarm "github.com/khs125/Clean-Slate-Shills/swarm/api/client"
+	"github.com/AkashiFeng/s18node/cmd/utils"
+	"github.com/AkashiFeng/s18node
+	swarm "github.com/AkashiFeng/s18node
 	"gopkg.in/urfave/cli.v1"
 )
 

@@ -21,9 +21,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/khs125/Clean-Slate-Shills/accounts/keystore"
-	"github.com/khs125/Clean-Slate-Shills/common"
-	"github.com/khs125/Clean-Slate-Shills/log"
+	"github.com/AkashiFeng/s18node/accounts/keystore"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 )
 
 // deployNode creates a new node configuration based on some user input.

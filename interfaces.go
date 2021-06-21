@@ -22,8 +22,8 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/khs125/Clean-Slate-Shills/common"
-	"github.com/khs125/Clean-Slate-Shills/core/types"
+	"github.com/AkashiFeng/s18node/common"
+	"github.com/AkashiFeng/s18node
 )
 
 // NotFound is returned by API methods if the requested item does not exist.

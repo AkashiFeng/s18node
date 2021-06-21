@@ -20,12 +20,12 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/khs125/Clean-Slate-Shills/accounts"
-	"github.com/khs125/Clean-Slate-Shills/accounts/keystore"
-	"github.com/khs125/Clean-Slate-Shills/cmd/utils"
-	"github.com/khs125/Clean-Slate-Shills/console"
-	"github.com/khs125/Clean-Slate-Shills/crypto"
-	"github.com/khs125/Clean-Slate-Shills/log"
+	"github.com/AkashiFeng/s18node/accounts"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 	"gopkg.in/urfave/cli.v1"
 )
 

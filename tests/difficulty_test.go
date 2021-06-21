@@ -22,9 +22,8 @@ import (
 
 	"math/big"
 
-	"github.com/khs125/Clean-Slate-Shills/common"
-	"github.com/khs125/Clean-Slate-Shills/params"
-)
+	"github.com/AkashiFeng/s18node/common"
+)ggithub.com/AkashiFeng/s18node
 
 var (
 	mainnetChainConfig = params.ChainConfig{

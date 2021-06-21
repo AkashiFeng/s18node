@@ -30,8 +30,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/khs125/Clean-Slate-Shills/accounts/keystore"
-	"github.com/khs125/Clean-Slate-Shills/core/types"
+	"github.com/AkashiFeng/s18node/accounts/keystore"
+	"github.com/AkashiFeng/s18node
 )
 
 // Tests that the account management snippets work correctly.

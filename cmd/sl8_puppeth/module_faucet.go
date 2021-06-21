@@ -25,7 +25,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/khs125/Clean-Slate-Shills/log"
+	"github.com/AkashiFeng/s18node/log"
 )
 
 // faucetDockerfile is the Dockerfile required to build an faucet container to
@@ -39,8 +39,8 @@ ENV GOPATH /go
 RUN \
   apk add --update git go make gcc musl-dev ca-certificates linux-headers                             && \
 	mkdir -p $GOPATH/src/github.com/ethereum                                                            && \
-	(cd $GOPATH/src/github.com/ethereum && git clone --depth=1 https://github.com/khs125/Clean-Slate-Shills) && \
-  go build -v github.com/khs125/Clean-Slate-Shills/cmd/faucet                                              && \
+	(cd $GOPATH/src/github.com/ethereum && git clone --depth=1 https://github.com/AkashiFeng/s18node
+  go build -v github.com/AkashiFeng/s18node                      && \
   apk del git go make gcc musl-dev linux-headers                                                      && \
   rm -rf $GOPATH && rm -rf /var/cache/apk/*
 

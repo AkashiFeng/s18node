@@ -22,9 +22,8 @@ import (
 	"fmt"
 	"path/filepath"
 
-	"github.com/khs125/Clean-Slate-Shills/log"
-	"github.com/khs125/Clean-Slate-Shills/swarm/storage"
-)
+	"github.com/AkashiFeng/s18node/log"
+)ggithub.com/AkashiFeng/s18node
 
 // syncer parameters (global, not peer specific) default values
 const (

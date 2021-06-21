@@ -29,8 +29,8 @@ import (
 
 	"github.com/cespare/cp"
 	"github.com/davecgh/go-spew/spew"
-	"github.com/khs125/Clean-Slate-Shills/accounts"
-	"github.com/khs125/Clean-Slate-Shills/common"
+	"github.com/AkashiFeng/s18node/accounts"
+	"github.com/AkashiFeng/s18node
 )
 
 var (

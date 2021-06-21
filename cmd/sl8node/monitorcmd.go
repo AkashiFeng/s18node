@@ -25,9 +25,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/khs125/Clean-Slate-Shills/cmd/utils"
-	"github.com/khs125/Clean-Slate-Shills/node"
-	"github.com/khs125/Clean-Slate-Shills/rpc"
+	"github.com/AkashiFeng/s18node/cmd/utils"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 	"github.com/gizak/termui"
 	"gopkg.in/urfave/cli.v1"
 )

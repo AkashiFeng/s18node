@@ -20,8 +20,8 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/khs125/Clean-Slate-Shills/common"
-	"github.com/khs125/Clean-Slate-Shills/core/types"
+	"github.com/AkashiFeng/s18node/common"
+	"github.com/AkashiFeng/s18node
 )
 
 // senderFromServer is a types.Signer that remembers the sender address returned by the RPC

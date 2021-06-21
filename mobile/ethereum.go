@@ -22,8 +22,8 @@ import (
 	"errors"
 	"math/big"
 
-	ethereum "github.com/khs125/Clean-Slate-Shills"
-	"github.com/khs125/Clean-Slate-Shills/common"
+	ethereum "github.com/AkashiFeng/s18node"
+	"github.com/AkashiFeng/s18node
 )
 
 // Subscription represents an event subscription where events are

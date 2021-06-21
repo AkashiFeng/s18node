@@ -19,8 +19,8 @@ package les
 import (
 	"time"
 
-	"github.com/khs125/Clean-Slate-Shills/common/bitutil"
-	"github.com/khs125/Clean-Slate-Shills/light"
+	"github.com/AkashiFeng/s18node/common/bitutil"
+	"github.com/AkashiFeng/s18node
 )
 
 const (

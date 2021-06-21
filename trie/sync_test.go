@@ -20,8 +20,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/khs125/Clean-Slate-Shills/common"
-	"github.com/khs125/Clean-Slate-Shills/ethdb"
+	"github.com/AkashiFeng/s18node/common"
+	"github.com/AkashiFeng/s18node
 )
 
 // makeTestTrie create a sample test trie to test node-wise reconstruction.

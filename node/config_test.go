@@ -24,8 +24,8 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/khs125/Clean-Slate-Shills/crypto"
-	"github.com/khs125/Clean-Slate-Shills/p2p"
+	"github.com/AkashiFeng/s18node/crypto"
+	"github.com/AkashiFeng/s18node
 )
 
 // Tests that datadirs can be successfully created, be them manually configured

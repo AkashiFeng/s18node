@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/khs125/Clean-Slate-Shills/accounts/keystore"
-	"github.com/khs125/Clean-Slate-Shills/log"
+	"github.com/AkashiFeng/s18node/accounts/keystore"
+	"github.com/AkashiFeng/s18node
 )
 
 // deployFaucet queries the user for various input on deploying a faucet, after

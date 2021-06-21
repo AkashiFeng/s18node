@@ -28,9 +28,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/khs125/Clean-Slate-Shills/log"
-	"github.com/khs125/Clean-Slate-Shills/p2p"
-	"github.com/khs125/Clean-Slate-Shills/rpc"
+	"github.com/AkashiFeng/s18node/log"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 	"github.com/rcrowley/go-metrics"
 	"golang.org/x/net/websocket"
 )

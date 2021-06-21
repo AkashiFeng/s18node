@@ -21,8 +21,8 @@ package geth
 import (
 	"math/big"
 
-	"github.com/khs125/Clean-Slate-Shills/core/types"
-	"github.com/khs125/Clean-Slate-Shills/ethclient"
+	"github.com/AkashiFeng/s18node/core/types"
+	"github.com/AkashiFeng/s18node
 )
 
 // EthereumClient provides access to the Ethereum APIs.

@@ -27,9 +27,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/khs125/Clean-Slate-Shills/swarm/api"
-	"github.com/khs125/Clean-Slate-Shills/swarm/storage"
-)
+	"github.com/AkashiFeng/s18node/swarm/api"
+)ggithub.com/AkashiFeng/s18node
 
 type fileInfo struct {
 	perm     uint64

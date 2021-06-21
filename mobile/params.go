@@ -21,9 +21,9 @@ package geth
 import (
 	"encoding/json"
 
-	"github.com/khs125/Clean-Slate-Shills/core"
-	"github.com/khs125/Clean-Slate-Shills/p2p/discv5"
-	"github.com/khs125/Clean-Slate-Shills/params"
+	"github.com/AkashiFeng/s18node/core"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 )
 
 // MainnetGenesis returns the JSON spec to use for the main Ethereum network. It

@@ -20,17 +20,17 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/khs125/Clean-Slate-Shills/log"
+	"github.com/AkashiFeng/s18node/log"
 )
 
 /*
 http roundtripper to register for bzz url scheme
-see https://github.com/khs125/Clean-Slate-Shills/issues/2040
+see https://github.com/AkashiFeng/s18node
 Usage:
 
 import (
- "github.com/khs125/Clean-Slate-Shills/common/httpclient"
- "github.com/khs125/Clean-Slate-Shills/swarm/api/http"
+ "github.com/AkashiFeng/s18node
+ "github.com/AkashiFeng/s18node
 )
 client := httpclient.New()
 // for (private) swarm proxy running locally

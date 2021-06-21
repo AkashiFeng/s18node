@@ -19,8 +19,8 @@ package miner
 import (
 	"testing"
 
-	"github.com/khs125/Clean-Slate-Shills/common"
-	"github.com/khs125/Clean-Slate-Shills/core/types"
+	"github.com/AkashiFeng/s18node/common"
+	"github.com/AkashiFeng/s18node
 )
 
 // noopHeaderRetriever is an implementation of headerRetriever that always

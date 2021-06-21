@@ -28,13 +28,13 @@ import (
 
 	cli "gopkg.in/urfave/cli.v1"
 
-	"github.com/khs125/Clean-Slate-Shills/cmd/utils"
-	"github.com/khs125/Clean-Slate-Shills/contracts/release"
-	"github.com/khs125/Clean-Slate-Shills/dashboard"
-	"github.com/khs125/Clean-Slate-Shills/eth"
-	"github.com/khs125/Clean-Slate-Shills/node"
-	"github.com/khs125/Clean-Slate-Shills/params"
-	whisper "github.com/khs125/Clean-Slate-Shills/whisper/whisperv5"
+	"github.com/AkashiFeng/s18node/cmd/utils"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	whisper "github.com/AkashiFeng/s18node
 	"github.com/naoina/toml"
 )
 

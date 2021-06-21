@@ -22,10 +22,10 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/khs125/Clean-Slate-Shills/common"
-	"github.com/khs125/Clean-Slate-Shills/internal/ethapi"
-	"github.com/khs125/Clean-Slate-Shills/params"
-	"github.com/khs125/Clean-Slate-Shills/rpc"
+	"github.com/AkashiFeng/s18node/common"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 )
 
 var maxPrice = big.NewInt(500 * params.Shannon)

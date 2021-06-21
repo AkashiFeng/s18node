@@ -22,10 +22,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/khs125/Clean-Slate-Shills/swarm/api"
-	httpapi "github.com/khs125/Clean-Slate-Shills/swarm/api/http"
-	"github.com/khs125/Clean-Slate-Shills/swarm/storage"
-)
+	"github.com/AkashiFeng/s18node/swarm/api"
+	httpapi "github.com/AkashiFeng/s18node
+)ggithub.com/AkashiFeng/s18node
 
 func NewTestSwarmServer(t *testing.T) *TestSwarmServer {
 	dir, err := ioutil.TempDir("", "swarm-storage-test")

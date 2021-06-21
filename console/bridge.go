@@ -23,9 +23,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/khs125/Clean-Slate-Shills/accounts/usbwallet"
-	"github.com/khs125/Clean-Slate-Shills/log"
-	"github.com/khs125/Clean-Slate-Shills/rpc"
+	"github.com/AkashiFeng/s18node/accounts/usbwallet"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 	"github.com/robertkrimen/otto"
 )
 

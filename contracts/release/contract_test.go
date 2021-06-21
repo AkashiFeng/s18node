@@ -21,11 +21,11 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/khs125/Clean-Slate-Shills/accounts/abi/bind"
-	"github.com/khs125/Clean-Slate-Shills/accounts/abi/bind/backends"
-	"github.com/khs125/Clean-Slate-Shills/common"
-	"github.com/khs125/Clean-Slate-Shills/core"
-	"github.com/khs125/Clean-Slate-Shills/crypto"
+	"github.com/AkashiFeng/s18node/accounts/abi/bind"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 )
 
 // setupReleaseTest creates a blockchain simulator and deploys a version oracle

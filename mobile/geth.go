@@ -24,17 +24,17 @@ import (
 	"fmt"
 	"path/filepath"
 
-	"github.com/khs125/Clean-Slate-Shills/core"
-	"github.com/khs125/Clean-Slate-Shills/eth"
-	"github.com/khs125/Clean-Slate-Shills/eth/downloader"
-	"github.com/khs125/Clean-Slate-Shills/ethclient"
-	"github.com/khs125/Clean-Slate-Shills/ethstats"
-	"github.com/khs125/Clean-Slate-Shills/les"
-	"github.com/khs125/Clean-Slate-Shills/node"
-	"github.com/khs125/Clean-Slate-Shills/p2p"
-	"github.com/khs125/Clean-Slate-Shills/p2p/nat"
-	"github.com/khs125/Clean-Slate-Shills/params"
-	whisper "github.com/khs125/Clean-Slate-Shills/whisper/whisperv5"
+	"github.com/AkashiFeng/s18node/core"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	whisper "github.com/AkashiFeng/s18node
 )
 
 // NodeConfig represents the collection of configuration values to fine tune the Geth

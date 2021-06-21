@@ -21,11 +21,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/khs125/Clean-Slate-Shills/accounts/abi"
-	"github.com/khs125/Clean-Slate-Shills/common"
-	"github.com/khs125/Clean-Slate-Shills/core/state"
-	"github.com/khs125/Clean-Slate-Shills/core/vm"
-	"github.com/khs125/Clean-Slate-Shills/ethdb"
+	"github.com/AkashiFeng/s18node/accounts/abi"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 )
 
 func TestDefaults(t *testing.T) {

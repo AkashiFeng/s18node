@@ -26,10 +26,10 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/khs125/Clean-Slate-Shills/cmd/internal/browser"
-	"github.com/khs125/Clean-Slate-Shills/params"
+	"github.com/AkashiFeng/s18node/cmd/internal/browser"
+	"github.com/AkashiFeng/s18node
 
-	"github.com/khs125/Clean-Slate-Shills/cmd/utils"
+	"github.com/AkashiFeng/s18node
 	cli "gopkg.in/urfave/cli.v1"
 )
 
@@ -41,7 +41,7 @@ var bugCommand = cli.Command{
 	Category:  "MISCELLANEOUS COMMANDS",
 }
 
-const issueUrl = "https://github.com/khs125/Clean-Slate-Shills/issues/new"
+const issueUrl = "https://github.com/AkashiFeng/s18node
 
 // reportBug reports a bug by opening a new URL to the go-ethereum GH issue
 // tracker and setting default values as the issue body.

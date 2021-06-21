@@ -22,10 +22,10 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/khs125/Clean-Slate-Shills/accounts/abi"
-	"github.com/khs125/Clean-Slate-Shills/accounts/abi/bind"
-	"github.com/khs125/Clean-Slate-Shills/common"
-	"github.com/khs125/Clean-Slate-Shills/core/types"
+	"github.com/AkashiFeng/s18node/accounts/abi"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 )
 
 // Signer is an interaface defining the callback when a contract requires a

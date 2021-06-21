@@ -21,8 +21,8 @@ import (
 	mrand "math/rand"
 	"testing"
 
-	"github.com/khs125/Clean-Slate-Shills/crypto"
-	"github.com/khs125/Clean-Slate-Shills/rlp"
+	"github.com/AkashiFeng/s18node/crypto"
+	"github.com/AkashiFeng/s18node
 )
 
 func generateMessageParams() (*MessageParams, error) {

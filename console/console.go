@@ -27,9 +27,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/khs125/Clean-Slate-Shills/internal/jsre"
-	"github.com/khs125/Clean-Slate-Shills/internal/web3ext"
-	"github.com/khs125/Clean-Slate-Shills/rpc"
+	"github.com/AkashiFeng/s18node/internal/jsre"
+	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node
 	"github.com/mattn/go-colorable"
 	"github.com/peterh/liner"
 	"github.com/robertkrimen/otto"
