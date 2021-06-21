@@ -21,7 +21,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/khs125/Clean-Slate-Shills/crypto"
+	"github.com/AkashiFeng/s18node/crypto"
 )
 
 // Callable method given a `Name` and whether the method is a constant.

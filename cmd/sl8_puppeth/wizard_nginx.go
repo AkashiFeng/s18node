@@ -19,7 +19,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/khs125/Clean-Slate-Shills/log"
+	"github.com/AkashiFeng/s18node/log"
 )
 
 // ensureVirtualHost checks whether a reverse-proxy is running on the specified

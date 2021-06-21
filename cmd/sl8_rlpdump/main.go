@@ -26,7 +26,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/khs125/Clean-Slate-Shills/rlp"
+	"github.com/AkashiFeng/s18node/rlp"
 )
 
 var (

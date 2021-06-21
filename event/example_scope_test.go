@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/khs125/Clean-Slate-Shills/event"
+	"github.com/AkashiFeng/s18node/event"
 )
 
 // This example demonstrates how SubscriptionScope can be used to control the lifetime of

@@ -27,7 +27,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/khs125/Clean-Slate-Shills/common/math"
+	"github.com/AkashiFeng/s18node/common/math"
 	"gopkg.in/urfave/cli.v1"
 )
 

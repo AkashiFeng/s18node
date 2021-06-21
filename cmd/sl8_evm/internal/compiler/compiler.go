@@ -20,7 +20,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/khs125/Clean-Slate-Shills/core/asm"
+	"github.com/AkashiFeng/s18node/core/asm"
 )
 
 func Compile(fn string, src []byte, debug bool) (string, error) {

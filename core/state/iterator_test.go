@@ -20,7 +20,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/khs125/Clean-Slate-Shills/common"
+	"github.com/AkashiFeng/s18node/common"
 )
 
 // Tests that the node iterator indeed walks over the entire database contents.

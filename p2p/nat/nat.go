@@ -25,8 +25,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/khs125/Clean-Slate-Shills/log"
-	"github.com/jackpal/go-nat-pmp"
+	"github.com/AkashiFeng/s18node/log"
 )
 
 // An implementation of nat.Interface can map local ports to ports

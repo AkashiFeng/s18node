@@ -28,7 +28,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/khs125/Clean-Slate-Shills/crypto/sha3"
+	"github.com/AkashiFeng/s18node/crypto/sha3"
 )
 
 const (

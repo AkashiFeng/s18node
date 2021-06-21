@@ -21,7 +21,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/khs125/Clean-Slate-Shills/common/mclock"
+	"github.com/AkashiFeng/s18node/common/mclock"
 )
 
 const fcTimeConst = time.Millisecond

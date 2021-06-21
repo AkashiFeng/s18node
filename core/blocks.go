@@ -16,7 +16,7 @@
 
 package core
 
-import "github.com/khs125/Clean-Slate-Shills/common"
+import "github.com/AkashiFeng/s18node/common"
 
 // BadHashes represent a set of manually tracked bad hashes (usually hard forks)
 var BadHashes = map[common.Hash]bool{

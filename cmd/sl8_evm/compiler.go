@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/khs125/Clean-Slate-Shills/cmd/sl8_evm/internal/compiler"
+	"github.com/AkashiFeng/s18node/cmd/sl8_evm/internal/compiler"
 
 	cli "gopkg.in/urfave/cli.v1"
 )

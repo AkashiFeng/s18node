@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/khs125/Clean-Slate-Shills/log"
+	"github.com/AkashiFeng/s18node/log"
 )
 
 // manageServers displays a list of servers the user can disconnect from, and an

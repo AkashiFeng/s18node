@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/khs125/Clean-Slate-Shills/log"
+	"github.com/AkashiFeng/s18node/log"
 )
 
 // deployEthstats queries the user for various input on deploying an ethstats

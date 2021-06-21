@@ -42,7 +42,7 @@ import (
 	"fmt"
 	"hash"
 
-	ethcrypto "github.com/khs125/Clean-Slate-Shills/crypto"
+	ethcrypto "github.com/AkashiFeng/s18node/crypto"
 )
 
 var (

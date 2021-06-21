@@ -21,7 +21,7 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/khs125/Clean-Slate-Shills/core/vm"
+	"github.com/AkashiFeng/s18node/core/vm"
 )
 
 // Iterator for disassembled EVM instructions

@@ -21,7 +21,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/khs125/Clean-Slate-Shills/core/types"
+	"github.com/AkashiFeng/s18node/core/types"
 )
 
 // Tests that batched bloom bits are correctly rotated from the input bloom

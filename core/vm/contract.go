@@ -19,7 +19,7 @@ package vm
 import (
 	"math/big"
 
-	"github.com/khs125/Clean-Slate-Shills/common"
+	"github.com/AkashiFeng/s18node/common"
 )
 
 // ContractRef is a reference to the contract's backing object

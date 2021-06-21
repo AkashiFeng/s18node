@@ -21,7 +21,7 @@ import (
 	"bytes"
 	"errors"
 
-	"github.com/khs125/Clean-Slate-Shills/crypto"
+	"github.com/AkashiFeng/s18node/crypto"
 )
 
 const (

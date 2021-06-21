@@ -19,7 +19,7 @@ package event_test
 import (
 	"fmt"
 
-	"github.com/khs125/Clean-Slate-Shills/event"
+	"github.com/AkashiFeng/s18node/event"
 )
 
 func ExampleNewSubscription() {

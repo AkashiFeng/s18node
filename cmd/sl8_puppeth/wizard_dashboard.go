@@ -19,7 +19,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/khs125/Clean-Slate-Shills/log"
+	"github.com/AkashiFeng/s18node/log"
 )
 
 // deployDashboard queries the user for various input on deploying a web-service

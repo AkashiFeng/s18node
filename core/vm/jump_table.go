@@ -20,7 +20,7 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/khs125/Clean-Slate-Shills/params"
+	"github.com/AkashiFeng/s18node/params"
 )
 
 type (

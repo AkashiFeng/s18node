@@ -22,7 +22,7 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/khs125/Clean-Slate-Shills/core/asm"
+	"github.com/AkashiFeng/s18node/core/asm"
 	cli "gopkg.in/urfave/cli.v1"
 )
 

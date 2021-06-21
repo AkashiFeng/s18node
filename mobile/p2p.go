@@ -21,7 +21,7 @@ package geth
 import (
 	"errors"
 
-	"github.com/khs125/Clean-Slate-Shills/p2p"
+	"github.com/AkashiFeng/s18node/p2p"
 )
 
 // NodeInfo represents pi short summary of the information known about the host.

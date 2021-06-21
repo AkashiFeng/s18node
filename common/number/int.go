@@ -19,7 +19,7 @@ package number
 import (
 	"math/big"
 
-	"github.com/khs125/Clean-Slate-Shills/common"
+	"github.com/AkashiFeng/s18node/common"
 )
 
 var tt256 = new(big.Int).Lsh(big.NewInt(1), 256)

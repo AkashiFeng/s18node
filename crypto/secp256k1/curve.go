@@ -37,7 +37,7 @@ import (
 	"sync"
 	"unsafe"
 
-	"github.com/khs125/Clean-Slate-Shills/common/math"
+	"github.com/AkashiFeng/s18node/common/math"
 )
 
 /*

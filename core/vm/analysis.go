@@ -19,7 +19,7 @@ package vm
 import (
 	"math/big"
 
-	"github.com/khs125/Clean-Slate-Shills/common"
+	"github.com/AkashiFeng/s18node/common"
 )
 
 // destinations stores one map per contract (keyed by hash of code).

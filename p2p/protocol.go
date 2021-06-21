@@ -19,7 +19,7 @@ package p2p
 import (
 	"fmt"
 
-	"github.com/khs125/Clean-Slate-Shills/p2p/discover"
+	"github.com/AkashiFeng/s18node/p2p/discover"
 )
 
 // Protocol represents a P2P subprotocol implementation.

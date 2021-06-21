@@ -27,7 +27,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/khs125/Clean-Slate-Shills/params"
+	"github.com/AkashiFeng/s18node/params"
 )
 
 const (

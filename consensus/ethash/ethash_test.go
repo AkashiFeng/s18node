@@ -20,7 +20,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/khs125/Clean-Slate-Shills/core/types"
+	"github.com/AkashiFeng/s18node/core/types"
 )
 
 // Tests that ethash works correctly in test mode.

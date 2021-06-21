@@ -22,7 +22,7 @@ package geth
 import (
 	"errors"
 
-	"github.com/khs125/Clean-Slate-Shills/p2p/discv5"
+	"github.com/AkashiFeng/s18node/p2p/discv5"
 )
 
 // Enode represents a host on the network.

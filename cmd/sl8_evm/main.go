@@ -22,7 +22,7 @@ import (
 	"math/big"
 	"os"
 
-	"github.com/khs125/Clean-Slate-Shills/cmd/utils"
+	"github.com/AkashiFeng/s18node/cmd/utils"
 	"gopkg.in/urfave/cli.v1"
 )
 

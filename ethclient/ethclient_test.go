@@ -16,8 +16,6 @@
 
 package ethclient
 
-import "github.com/khs125/Clean-Slate-Shills"
-
 // Verify that Client implements the ethereum interfaces.
 var (
 	_ = ethereum.ChainReader(&Client{})

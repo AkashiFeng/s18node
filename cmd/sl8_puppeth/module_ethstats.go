@@ -24,7 +24,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/khs125/Clean-Slate-Shills/log"
+	"github.com/AkashiFeng/s18node/log"
 )
 
 // ethstatsDockerfile is the Dockerfile required to build an ethstats backend

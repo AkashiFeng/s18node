@@ -22,8 +22,8 @@ import (
 	"os"
 	"testing"
 
+	"github.com/AkashiFeng/s18node/internal/cmdtest"
 	"github.com/docker/docker/pkg/reexec"
-	"github.com/khs125/Clean-Slate-Shills/internal/cmdtest"
 )
 
 func tmpdir(t *testing.T) string {

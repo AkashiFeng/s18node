@@ -24,7 +24,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/khs125/Clean-Slate-Shills/common"
+	"github.com/AkashiFeng/s18node/common"
 )
 
 // Hash represents the 32 byte Keccak256 hash of arbitrary data.

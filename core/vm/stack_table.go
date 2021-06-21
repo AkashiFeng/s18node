@@ -19,7 +19,7 @@ package vm
 import (
 	"fmt"
 
-	"github.com/khs125/Clean-Slate-Shills/params"
+	"github.com/AkashiFeng/s18node/params"
 )
 
 func makeStackFunc(pop, push int) stackValidationFunc {

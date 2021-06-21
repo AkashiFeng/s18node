@@ -21,8 +21,8 @@ import (
 	"reflect"
 	"testing"
 
+	"github.com/AkashiFeng/s18node/common"
 	"github.com/davecgh/go-spew/spew"
-	"github.com/khs125/Clean-Slate-Shills/common"
 )
 
 // typeWithoutStringer is a alias for the Type type which simply doesn't implement

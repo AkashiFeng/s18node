@@ -20,7 +20,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/khs125/Clean-Slate-Shills/common/hexutil"
+	"github.com/AkashiFeng/s18node/common/hexutil"
 )
 
 type MyType [5]byte
