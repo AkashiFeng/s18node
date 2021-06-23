@@ -23,9 +23,7 @@ import (
 	"sort"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // nonceHeap is a heap.Interface implementation over 64bit unsigned integers for
 // retrieving sorted transactions from the possibly gapped future queue.

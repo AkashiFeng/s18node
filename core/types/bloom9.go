@@ -21,8 +21,7 @@ import (
 	"math/big"
 
 	"github.com/AkashiFeng/s18node/common/hexutil"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 type bytesBacked interface {
 	Bytes() []byte

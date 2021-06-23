@@ -23,15 +23,7 @@ import (
 	"math/big"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // VMTest checks EVM execution without block or transaction context.
 // See https://github.com/ethereum/tests/wiki/VM-Tests for the test format specification.

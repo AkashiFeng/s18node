@@ -37,14 +37,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/accounts/abi/bind"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // TODO(zelig): watch peer solvency and notify of bouncing cheques
 // TODO(zelig): enable paying with cheque by signing off

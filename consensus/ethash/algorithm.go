@@ -27,11 +27,7 @@ import (
 	"unsafe"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 const (
 	datasetInitBytes   = 1 << 30 // Bytes in dataset at genesis

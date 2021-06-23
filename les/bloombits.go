@@ -20,8 +20,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/common/bitutil"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 const (
 	// bloomServiceThreads is the number of goroutines used globally by an Ethereum

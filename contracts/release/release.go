@@ -26,15 +26,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/accounts/abi/bind"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // Interval to check for new releases
 const releaseRecheckInterval = time.Hour

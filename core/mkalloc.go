@@ -35,8 +35,7 @@ import (
 	"strconv"
 
 	"github.com/AkashiFeng/s18node/core"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 type allocItem struct{ Addr, Balance *big.Int }
 

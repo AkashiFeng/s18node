@@ -23,8 +23,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/p2p/discover"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // TestNetworkSimulation creates a multi-node simulation network with each node
 // connected in a ring topology, checks that all nodes successfully handshake

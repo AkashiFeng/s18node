@@ -28,8 +28,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 type nullTransport struct{}
 

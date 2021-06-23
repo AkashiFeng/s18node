@@ -25,14 +25,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // newTestBlockChain creates a blockchain without validation.
 func newTestBlockChain(fake bool) *BlockChain {

@@ -25,7 +25,6 @@ import (
 	"runtime"
 
 	"github.com/AkashiFeng/s18node/log"
-	"github.com/AkashiFeng/s18node
 	colorable "github.com/mattn/go-colorable"
 	"gopkg.in/urfave/cli.v1"
 )

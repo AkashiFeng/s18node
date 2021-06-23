@@ -22,9 +22,7 @@ import (
 	"math/big"
 
 	"github.com/AkashiFeng/s18node"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 var (
 	// ErrNoCode is returned by call and transact operations for which the requested

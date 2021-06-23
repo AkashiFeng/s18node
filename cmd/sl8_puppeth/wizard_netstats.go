@@ -23,7 +23,7 @@ import (
 	"strings"
 
 	"github.com/AkashiFeng/s18node/core"
-	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node/log"
 	"github.com/olekukonko/tablewriter"
 )
 

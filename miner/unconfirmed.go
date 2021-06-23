@@ -21,9 +21,7 @@ import (
 	"sync"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // headerRetriever is used by the unconfirmed block set to verify whether a previously
 // mined block is part of the canonical chain or not.

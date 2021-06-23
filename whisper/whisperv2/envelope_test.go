@@ -22,8 +22,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/crypto"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 func TestEnvelopeOpen(t *testing.T) {
 	payload := []byte("hello world")

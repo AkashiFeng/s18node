@@ -22,11 +22,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 var deduplicateData = []byte("dbUpgrade_20170714deduplicateData")
 

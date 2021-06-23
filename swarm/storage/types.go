@@ -25,8 +25,7 @@ import (
 	"sync"
 
 	"github.com/AkashiFeng/s18node/bmt"
-	"github.com/AkashiFeng/s18node
-)ggithub.com/AkashiFeng/s18node
+	)ggithub.com/AkashiFeng/s18node
 
 type Hasher func() hash.Hash
 type SwarmHasher func() SwarmHash

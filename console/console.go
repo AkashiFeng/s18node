@@ -20,6 +20,7 @@ import (
 	"fmt"
 	"io"
 	"io/ioutil"
+	"net/rpc"
 	"os"
 	"os/signal"
 	"path/filepath"
@@ -28,8 +29,6 @@ import (
 	"strings"
 
 	"github.com/AkashiFeng/s18node/internal/jsre"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
 	"github.com/mattn/go-colorable"
 	"github.com/peterh/liner"
 	"github.com/robertkrimen/otto"

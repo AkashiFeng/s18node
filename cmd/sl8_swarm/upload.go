@@ -31,8 +31,7 @@ import (
 	"strings"
 
 	"github.com/AkashiFeng/s18node/cmd/utils"
-	swarm "github.com/AkashiFeng/s18node
-	"gopkg.in/urfave/cli.v1"
+	swarm "gopkg.in/urfave/cli.v1"
 )
 
 func upload(ctx *cli.Context) {

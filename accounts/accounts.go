@@ -21,10 +21,7 @@ import (
 	"math/big"
 
 	ethereum "github.com/AkashiFeng/s18node"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // Account represents an Ethereum account located at a specific location defined
 // by the optional URL field.

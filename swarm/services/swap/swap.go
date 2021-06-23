@@ -27,14 +27,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/accounts/abi/bind"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // SwAP       Swarm Accounting Protocol with
 // SWAP^2     Strategies of Withholding Automatic Payments

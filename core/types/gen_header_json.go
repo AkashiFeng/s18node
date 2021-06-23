@@ -8,8 +8,7 @@ import (
 	"math/big"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 func (h Header) MarshalJSON() ([]byte, error) {
 	type Header struct {

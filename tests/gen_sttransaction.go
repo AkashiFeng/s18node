@@ -7,8 +7,7 @@ import (
 	"math/big"
 
 	"github.com/AkashiFeng/s18node/common/hexutil"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 var _ = (*stTransactionMarshaling)(nil)
 

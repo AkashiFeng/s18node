@@ -22,17 +22,7 @@ import (
 	"math/big"
 
 	"github.com/AkashiFeng/s18node/accounts"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // Backend interface provides the common API services (that are provided by
 // both full and light clients) with access to necessary functions.

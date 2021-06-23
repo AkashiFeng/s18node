@@ -20,9 +20,7 @@ import (
 	"fmt"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // VerifyForkHashes verifies that blocks conforming to network hard-forks do have
 // the correct hashes, to avoid clients going off on different chains. This is an

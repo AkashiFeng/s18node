@@ -21,9 +21,7 @@ import (
 	"sync"
 
 	ethereum "github.com/AkashiFeng/s18node"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // PublicDownloaderAPI provides an API which gives information about the current synchronisation status.
 // It offers only methods that operates on data that can be available to anyone without security risks.

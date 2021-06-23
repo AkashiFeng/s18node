@@ -21,10 +21,7 @@ import (
 	"testing"
 
 	"github.com/AkashiFeng/s18node/consensus/ethash"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // Tests that DAO-fork enabled clients can properly filter out fork-commencing
 // blocks based on their extradata fields.

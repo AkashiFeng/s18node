@@ -26,12 +26,6 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
 	"gopkg.in/karalabe/cookiejar.v2/collections/prque"
 )
 

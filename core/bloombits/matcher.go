@@ -27,8 +27,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/common/bitutil"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // bloomIndexes represents the bit indexes inside the bloom filter that belong
 // to some key.

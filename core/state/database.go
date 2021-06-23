@@ -21,8 +21,6 @@ import (
 	"sync"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
 	lru "github.com/hashicorp/golang-lru"
 )
 

@@ -22,6 +22,7 @@ import (
 	"fmt"
 	"io/ioutil"
 	"math/big"
+	"net/rpc"
 	"os"
 	"os/signal"
 	"runtime"
@@ -32,23 +33,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/accounts"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	bzzapi "github.com/AkashiFeng/s18node
-	"gopkg.in/urfave/cli.v1"
+	bzzapi "gopkg.in/urfave/cli.v1"
 )
 
 const clientIdentifier = "swarm"

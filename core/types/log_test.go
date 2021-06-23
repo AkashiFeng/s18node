@@ -24,8 +24,7 @@ import (
 
 	"github.com/davecgh/go-spew/spew"
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 var unmarshalLogTests = map[string]struct {
 	input     string

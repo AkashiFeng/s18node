@@ -21,11 +21,7 @@ import (
 	"context"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 var sha3_nil = crypto.Keccak256Hash(nil)
 

@@ -20,10 +20,7 @@ import (
 	"context"
 
 	"github.com/AkashiFeng/s18node/core"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // LesOdr implements light.OdrBackend
 type LesOdr struct {

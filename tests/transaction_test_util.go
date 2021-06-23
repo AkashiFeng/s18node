@@ -23,12 +23,7 @@ import (
 	"math/big"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // TransactionTest checks RLP decoding and sender derivation of transactions.
 type TransactionTest struct {

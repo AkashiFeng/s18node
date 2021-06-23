@@ -24,8 +24,7 @@ import (
 	"reflect"
 
 	"github.com/AkashiFeng/s18node/common/hexutil"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 const (
 	HashLength    = 32

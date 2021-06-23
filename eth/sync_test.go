@@ -22,9 +22,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/eth/downloader"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // Tests that fast sync gets disabled as soon as a real block is successfully
 // imported into the blockchain.

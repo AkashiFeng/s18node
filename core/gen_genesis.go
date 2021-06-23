@@ -8,10 +8,7 @@ import (
 	"math/big"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 func (g Genesis) MarshalJSON() ([]byte, error) {
 	type Genesis struct {

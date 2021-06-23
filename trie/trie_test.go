@@ -31,10 +31,7 @@ import (
 
 	"github.com/AkashiFeng/s18node/common"
 	"github.com/AkashiFeng/s18node/crypto"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 func init() {
 	spew.Config.Indent = "    "

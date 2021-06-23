@@ -31,8 +31,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/accounts/keystore"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // Tests that the account management snippets work correctly.
 func TestAccountManagement(t *testing.T) {

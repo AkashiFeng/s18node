@@ -22,8 +22,6 @@ import (
 	"testing"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
 	checker "gopkg.in/check.v1"
 )
 

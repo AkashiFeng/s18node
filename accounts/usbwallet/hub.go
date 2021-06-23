@@ -18,13 +18,12 @@ package usbwallet
 
 import (
 	"errors"
+	"log"
 	"runtime"
 	"sync"
 	"time"
 
 	"github.com/AkashiFeng/s18node/accounts"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
 	"github.com/karalabe/hid"
 )
 

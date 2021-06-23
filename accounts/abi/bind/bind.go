@@ -28,7 +28,6 @@ import (
 	"text/template"
 	"unicode"
 
-	"github.com/AkashiFeng/s18node
 	"golang.org/x/tools/imports"
 )
 

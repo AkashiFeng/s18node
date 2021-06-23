@@ -23,8 +23,7 @@ import (
 	"reflect"
 
 	"github.com/AkashiFeng/s18node/p2p"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // NoopService is a trivial implementation of the Service interface.
 type NoopService struct{}

@@ -21,9 +21,7 @@ import (
 	"io"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 //go:generate gencodec -type Log -field-override logMarshaling -out gen_log_json.go
 

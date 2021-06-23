@@ -21,8 +21,7 @@ import (
 	"testing"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // makeTestTrie create a sample test trie to test node-wise reconstruction.
 func makeTestTrie() (ethdb.Database, *Trie, map[string][]byte) {

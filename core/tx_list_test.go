@@ -22,8 +22,7 @@ import (
 	"testing"
 
 	"github.com/AkashiFeng/s18node/core/types"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // Tests that transactions can be added to strict lists and list contents and
 // nonce boundaries are correctly maintained.

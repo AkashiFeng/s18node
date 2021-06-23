@@ -21,8 +21,7 @@ import (
 	"math/big"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // senderFromServer is a types.Signer that remembers the sender address returned by the RPC
 // server. It is stored in the transaction's sender address cache to avoid an additional

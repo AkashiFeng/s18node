@@ -25,16 +25,12 @@ import (
 	"encoding/json"
 	"fmt"
 	"io"
+	"net/rpc"
 	"os"
 	"strings"
 	"text/tabwriter"
 
 	"github.com/AkashiFeng/s18node/crypto"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
 	"gopkg.in/urfave/cli.v1"
 )
 

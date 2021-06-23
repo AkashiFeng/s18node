@@ -28,15 +28,6 @@ import (
 	goruntime "runtime"
 
 	"github.com/AkashiFeng/s18node/cmd/sl8_evm/internal/compiler"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
 	cli "gopkg.in/urfave/cli.v1"
 )
 

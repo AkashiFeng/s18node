@@ -29,8 +29,6 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/crypto"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
 	"github.com/syndtr/goleveldb/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/errors"
 	"github.com/syndtr/goleveldb/leveldb/iterator"

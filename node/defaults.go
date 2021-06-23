@@ -23,8 +23,7 @@ import (
 	"runtime"
 
 	"github.com/AkashiFeng/s18node/p2p"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 const (
 	DefaultHTTPHost = "localhost" // Default host interface for the HTTP RPC server

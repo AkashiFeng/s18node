@@ -23,8 +23,7 @@ import (
 	"math/big"
 
 	ethereum "github.com/AkashiFeng/s18node"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // Subscription represents an event subscription where events are
 // delivered on a data channel.

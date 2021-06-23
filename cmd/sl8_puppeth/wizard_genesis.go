@@ -26,10 +26,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // makeGenesis creates a new genesis struct based on some user input.
 func (w *wizard) makeGenesis() {

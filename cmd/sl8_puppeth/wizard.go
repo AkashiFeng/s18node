@@ -30,8 +30,7 @@ import (
 	"strings"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node/log"
 	"golang.org/x/crypto/ssh/terminal"
 )
 

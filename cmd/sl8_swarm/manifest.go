@@ -25,9 +25,7 @@ import (
 	"strings"
 
 	"github.com/AkashiFeng/s18node/cmd/utils"
-	"github.com/AkashiFeng/s18node
-	swarm "github.com/AkashiFeng/s18node
-	"gopkg.in/urfave/cli.v1"
+	swarm "gopkg.in/urfave/cli.v1"
 )
 
 func add(ctx *cli.Context) {

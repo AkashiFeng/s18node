@@ -27,9 +27,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/accounts"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 var testSigData = make([]byte, 32)
 

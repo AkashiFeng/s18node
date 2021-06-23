@@ -23,18 +23,6 @@ import (
 	"math/big"
 	"sync"
 	"time"
-
-	"github.com/AkashiFeng/s18node"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
 )
 
 // This nil assignment ensures compile time that SimulatedBackend implements bind.ContractBackend.

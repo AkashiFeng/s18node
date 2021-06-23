@@ -23,8 +23,7 @@ import (
 	"math/big"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // NotFound is returned by API methods if the requested item does not exist.
 var NotFound = errors.New("not found")

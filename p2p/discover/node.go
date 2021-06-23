@@ -31,9 +31,7 @@ import (
 	"strings"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 const NodeIDBits = 512
 

@@ -27,8 +27,7 @@ import (
 	"bazil.org/fuse"
 	"bazil.org/fuse/fs"
 	"github.com/AkashiFeng/s18node/log"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 const (
 	MaxAppendFileSize = 10485760 // 10Mb

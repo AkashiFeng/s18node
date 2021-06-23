@@ -26,11 +26,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/crypto"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 const Version = 4
 

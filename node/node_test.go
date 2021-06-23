@@ -25,9 +25,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/crypto"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 var (
 	testNodeKey, _ = crypto.GenerateKey()

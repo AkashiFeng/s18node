@@ -28,9 +28,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/event"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // Msg defines the structure of a p2p message.
 //

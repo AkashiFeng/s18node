@@ -25,8 +25,7 @@ import (
 
 	"github.com/davecgh/go-spew/spew"
 	"github.com/AkashiFeng/s18node/p2p/discover"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 func init() {
 	spew.Config.Indent = "\t"

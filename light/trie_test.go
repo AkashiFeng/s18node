@@ -24,13 +24,7 @@ import (
 
 	"github.com/davecgh/go-spew/spew"
 	"github.com/AkashiFeng/s18node/consensus/ethash"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 func TestNodeIterator(t *testing.T) {
 	var (

@@ -29,12 +29,7 @@ import (
 	"math/big"
 
 	"github.com/AkashiFeng/s18node/accounts"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // ledgerOpcode is an enumeration encoding the supported Ledger opcodes.
 type ledgerOpcode byte

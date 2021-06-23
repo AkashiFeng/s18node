@@ -23,8 +23,7 @@ import (
 	"testing"
 
 	"github.com/AkashiFeng/s18node/swarm/api"
-	httpapi "github.com/AkashiFeng/s18node
-)ggithub.com/AkashiFeng/s18node
+	httpapi )ggithub.com/AkashiFeng/s18node
 
 func NewTestSwarmServer(t *testing.T) *TestSwarmServer {
 	dir, err := ioutil.TempDir("", "swarm-storage-test")

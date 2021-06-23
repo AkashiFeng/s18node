@@ -31,8 +31,7 @@ import (
 	"strings"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // Node represents a host on the network.
 // The public fields of Node may not be modified.

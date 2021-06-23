@@ -35,16 +35,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/cmd/utils"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	whisper "github.com/AkashiFeng/s18node
-	"golang.org/x/crypto/pbkdf2"
+	whisper "golang.org/x/crypto/pbkdf2"
 )
 
 const quitCommand = "~Q"

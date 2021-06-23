@@ -21,8 +21,7 @@ import (
 	"testing"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 func TestEventId(t *testing.T) {
 	var table = []struct {

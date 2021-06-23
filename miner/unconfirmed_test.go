@@ -20,8 +20,7 @@ import (
 	"testing"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // noopHeaderRetriever is an implementation of headerRetriever that always
 // returns nil for any requested headers.

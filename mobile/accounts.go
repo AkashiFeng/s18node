@@ -24,10 +24,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/accounts"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 const (
 	// StandardScryptN is the N parameter of Scrypt encryption algorithm, using 256MB

@@ -39,9 +39,7 @@ import (
 	"unsafe"
 
 	"github.com/AkashiFeng/s18node/core/state"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 type JitVm struct {
 	env        EVM

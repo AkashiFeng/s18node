@@ -25,8 +25,7 @@ import (
 	"testing"
 
 	"github.com/AkashiFeng/s18node/common/math"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 const TestCount = 1000
 

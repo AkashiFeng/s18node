@@ -22,10 +22,7 @@ import (
 	"os"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // errNoActiveJournal is returned if a transaction is attempted to be inserted
 // into the journal, but no such file is currently open.

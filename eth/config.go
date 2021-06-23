@@ -24,12 +24,7 @@ import (
 	"runtime"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // DefaultConfig contains default settings for use on the Ethereum main net.
 var DefaultConfig = Config{

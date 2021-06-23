@@ -23,7 +23,6 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/log"
-	"github.com/AkashiFeng/s18node
 	"github.com/syndtr/goleveldb/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/errors"
 	"github.com/syndtr/goleveldb/leveldb/filter"

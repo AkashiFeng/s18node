@@ -28,8 +28,7 @@ import (
 	"testing"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 func tmpKeyStoreIface(t *testing.T, encrypted bool) (dir string, ks keyStore) {
 	d, err := ioutil.TempDir("", "geth-keystore-test")

@@ -23,10 +23,7 @@ import (
 	"io/ioutil"
 
 	"github.com/AkashiFeng/s18node/accounts/keystore"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // NewTransactor is a utility method to easily create a transaction signer from
 // an encrypted json key stream and the associated passphrase.

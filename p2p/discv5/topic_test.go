@@ -22,8 +22,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 func TestTopicRadius(t *testing.T) {
 	now := mclock.Now()

@@ -24,8 +24,7 @@ import (
 	"strings"
 
 	"github.com/AkashiFeng/s18node/common/math"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // Compiler contains information about the parsed source
 // and holds the tokens for the program.

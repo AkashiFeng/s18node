@@ -20,7 +20,6 @@ import (
 	"context"
 
 	"github.com/AkashiFeng/s18node/common/hexutil"
-	"github.com/AkashiFeng/s18node
 	wgithub.com/AkashiFeng/s18node
 )github.cogithub.com/AkashiFeng/s18node
 

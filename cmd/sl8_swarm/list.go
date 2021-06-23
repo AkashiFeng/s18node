@@ -23,8 +23,7 @@ import (
 	"text/tabwriter"
 
 	"github.com/AkashiFeng/s18node/cmd/utils"
-	swarm "github.com/AkashiFeng/s18node
-	"gopkg.in/urfave/cli.v1"
+	swarm "gopkg.in/urfave/cli.v1"
 )
 
 func list(ctx *cli.Context) {

@@ -24,11 +24,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // ChainIndexerBackend defines the methods needed to process chain segments in
 // the background and write the segment results into the database. These can be

@@ -22,11 +22,7 @@ import (
 	"testing"
 
 	"github.com/AkashiFeng/s18node/accounts/abi/bind"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // setupReleaseTest creates a blockchain simulator and deploys a version oracle
 // contract for testing.

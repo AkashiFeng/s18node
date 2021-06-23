@@ -21,13 +21,7 @@ import (
 	"math/big"
 
 	"github.com/AkashiFeng/s18node"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // ContractBackend implements bind.ContractBackend with direct calls to Ethereum
 // internals to support operating on contracts within subprotocols like eth and

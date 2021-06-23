@@ -22,8 +22,7 @@ import (
 	"fmt"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node/log"
 	"github.com/rcrowley/go-metrics"
 )
 

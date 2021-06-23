@@ -25,11 +25,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/common/mclock"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 const (
 	baseProtocolVersion    = 5

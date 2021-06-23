@@ -28,12 +28,7 @@ import (
 
 	"github.com/docker/docker/pkg/reexec"
 	"github.com/AkashiFeng/s18node/accounts/keystore"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 func init() {
 	// Run the app if we've been exec'd as "swarm-test" in runSwarm.

@@ -19,11 +19,7 @@ package consensus
 
 import (
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // ChainReader defines a small collection of methods needed to access the local
 // blockchain during header and/or uncle verification.

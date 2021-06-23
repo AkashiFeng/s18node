@@ -20,9 +20,7 @@ import (
 	"bytes"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // NewStateSync create a new state trie download scheduler.
 func NewStateSync(root common.Hash, database trie.DatabaseReader) *trie.TrieSync {

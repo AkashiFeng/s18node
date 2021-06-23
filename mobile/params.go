@@ -22,9 +22,7 @@ import (
 	"encoding/json"
 
 	"github.com/AkashiFeng/s18node/core"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // MainnetGenesis returns the JSON spec to use for the main Ethereum network. It
 // is actually empty since that defaults to the hard coded binary genesis block.

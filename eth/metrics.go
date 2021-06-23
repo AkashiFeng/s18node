@@ -18,8 +18,7 @@ package eth
 
 import (
 	"github.com/AkashiFeng/s18node/metrics"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 var (
 	propTxnInPacketsMeter     = metrics.NewMeter("eth/prop/txns/in/packets")

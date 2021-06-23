@@ -25,10 +25,7 @@ import (
 	"sync/atomic"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 //go:generate gencodec -type txdata -field-override txdataMarshaling -out gen_tx_json.go
 

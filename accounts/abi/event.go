@@ -22,8 +22,7 @@ import (
 	"strings"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // Event is an event potentially triggered by the EVM's LOG mechanism. The Event
 // holds type information (inputs) about the yielded output. Anonymous events

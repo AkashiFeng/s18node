@@ -22,8 +22,7 @@ import (
 	"sync/atomic"
 
 	"github.com/AkashiFeng/s18node/consensus"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 type CpuAgent struct {
 	mu sync.Mutex

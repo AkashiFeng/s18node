@@ -23,10 +23,7 @@ import (
 	"strings"
 
 	"github.com/AkashiFeng/s18node/accounts/abi"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // Signer is an interaface defining the callback when a contract requires a
 // method to sign the transaction before submission.

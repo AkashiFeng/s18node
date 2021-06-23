@@ -24,11 +24,7 @@ import (
 	"sync"
 
 	"github.com/AkashiFeng/s18node/event"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // SimAdapter is a NodeAdapter which creates in-memory simulation nodes and
 // connects them using in-memory net.Pipe connections

@@ -21,10 +21,7 @@ import (
 	"sync"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // NodeSet stores a set of trie nodes. It implements trie.Database and can also
 // act as a cache for another trie.Database.

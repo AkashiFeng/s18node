@@ -21,9 +21,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/core"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 const (
 	//forceSyncCycle      = 10 * time.Second // Time interval to force syncs, even if few peers are available

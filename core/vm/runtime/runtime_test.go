@@ -22,11 +22,7 @@ import (
 	"testing"
 
 	"github.com/AkashiFeng/s18node/accounts/abi"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 func TestDefaults(t *testing.T) {
 	cfg := new(Config)

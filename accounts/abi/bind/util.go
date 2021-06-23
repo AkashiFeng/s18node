@@ -22,9 +22,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // WaitMined waits for tx to be mined on the blockchain.
 // It stops waiting when the context is canceled.

@@ -23,11 +23,7 @@ import (
 	"strings"
 
 	"github.com/AkashiFeng/s18node/accounts/abi/bind"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 var (
 	MainNetAddress = common.HexToAddress("0x314159265dD8dbb310642f98f50C066173C1259b")

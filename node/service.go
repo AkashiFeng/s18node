@@ -20,11 +20,7 @@ import (
 	"reflect"
 
 	"github.com/AkashiFeng/s18node/accounts"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // ServiceContext is a collection of service independent options inherited from
 // the protocol stack, that is passed to all constructors to be optionally used;

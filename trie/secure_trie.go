@@ -20,8 +20,7 @@ import (
 	"fmt"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 var secureKeyPrefix = []byte("secure-key-")
 

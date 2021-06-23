@@ -22,8 +22,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/log"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 const requesterCount = 3
 

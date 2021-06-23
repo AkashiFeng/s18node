@@ -26,9 +26,7 @@ import (
 	"testing"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // Tests that verification caches can be correctly generated.
 func TestCacheGeneration(t *testing.T) {

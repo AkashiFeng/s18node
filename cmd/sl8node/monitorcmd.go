@@ -19,6 +19,7 @@ package main
 import (
 	"fmt"
 	"math"
+	"net/rpc"
 	"reflect"
 	"runtime"
 	"sort"
@@ -26,8 +27,6 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/cmd/utils"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
 	"github.com/gizak/termui"
 	"gopkg.in/urfave/cli.v1"
 )

@@ -24,9 +24,7 @@ import (
 	"testing"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // The values in those tests are from the Transaction Tests
 // at github.com/ethereum/tests.

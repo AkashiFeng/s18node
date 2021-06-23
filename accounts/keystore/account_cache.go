@@ -28,8 +28,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/accounts"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node/log"
 	"gopkg.in/fatih/set.v0"
 )
 

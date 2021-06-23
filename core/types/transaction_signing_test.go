@@ -21,9 +21,7 @@ import (
 	"testing"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 func TestEIP155Signing(t *testing.T) {
 	key, _ := crypto.GenerateKey()

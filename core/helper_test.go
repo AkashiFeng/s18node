@@ -21,9 +21,7 @@ import (
 	"fmt"
 
 	"github.com/AkashiFeng/s18node/core/types"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // Implement our EthTest Manager
 type TestManager struct {

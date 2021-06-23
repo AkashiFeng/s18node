@@ -20,8 +20,7 @@ import (
 	"math/big"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 func NoopCanTransfer(db StateDB, from common.Address, balance *big.Int) bool {
 	return true

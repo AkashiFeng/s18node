@@ -29,9 +29,7 @@ see https://github.com/AkashiFeng/s18node
 Usage:
 
 import (
- "github.com/AkashiFeng/s18node
- "github.com/AkashiFeng/s18node
-)
+  )
 client := httpclient.New()
 // for (private) swarm proxy running locally
 client.RegisterScheme("bzz", &http.RoundTripper{Port: port})

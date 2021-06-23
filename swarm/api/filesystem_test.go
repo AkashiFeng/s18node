@@ -25,8 +25,7 @@ import (
 	"testing"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 var testDownloadDir, _ = ioutil.TempDir(os.TempDir(), "bzz-test")
 

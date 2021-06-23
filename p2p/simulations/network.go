@@ -24,11 +24,7 @@ import (
 	"sync"
 
 	"github.com/AkashiFeng/s18node/event"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // NetworkConfig defines configuration options for starting a Network
 type NetworkConfig struct {

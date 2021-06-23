@@ -24,13 +24,7 @@ import (
 	"os"
 
 	"github.com/AkashiFeng/s18node/cmd/utils"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 func main() {
 	var (

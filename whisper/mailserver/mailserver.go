@@ -22,12 +22,7 @@ import (
 	"fmt"
 
 	"github.com/AkashiFeng/s18node/cmd/utils"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	whisper "github.com/AkashiFeng/s18node
-	"github.com/syndtr/goleveldb/leveldb"
+	whisper "github.com/syndtr/goleveldb/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/util"
 )
 

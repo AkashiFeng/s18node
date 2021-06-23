@@ -21,8 +21,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/p2p"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 type testPeer struct {
 	client *Whisper

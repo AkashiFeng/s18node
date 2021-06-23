@@ -22,9 +22,7 @@ import (
 	"math/big"
 
 	"github.com/AkashiFeng/s18node/core/state"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 var (
 	// ErrBadProDAOExtra is returned if a header doens't support the DAO fork on a

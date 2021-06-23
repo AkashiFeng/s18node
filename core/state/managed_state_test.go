@@ -20,8 +20,7 @@ import (
 	"testing"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 var addr = common.BytesToAddress([]byte("test"))
 

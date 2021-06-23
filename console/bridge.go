@@ -24,8 +24,6 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/accounts/usbwallet"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
 	"github.com/robertkrimen/otto"
 )
 

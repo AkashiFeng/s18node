@@ -23,8 +23,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 func TestNetwork_Lookup(t *testing.T) {
 	key, _ := crypto.GenerateKey()

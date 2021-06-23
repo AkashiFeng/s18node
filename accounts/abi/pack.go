@@ -21,8 +21,7 @@ import (
 	"reflect"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // packBytesSlice packs the given bytes as [L, V] as the canonical representation
 // bytes slice

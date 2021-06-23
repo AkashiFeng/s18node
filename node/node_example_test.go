@@ -21,9 +21,7 @@ import (
 	"log"
 
 	"github.com/AkashiFeng/s18node/node"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // SampleService is a trivial network service that can be attached to a node for
 // life cycle management.

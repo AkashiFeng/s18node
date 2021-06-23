@@ -22,8 +22,7 @@ import (
 	"testing"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 func TestUnmarshalJSONNewFilterArgs(t *testing.T) {
 	var (

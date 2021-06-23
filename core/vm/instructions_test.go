@@ -5,8 +5,7 @@ import (
 	"testing"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 func TestByteOp(t *testing.T) {
 	var (

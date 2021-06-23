@@ -25,12 +25,7 @@ import (
 	"math/big"
 
 	"github.com/AkashiFeng/s18node"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // Client defines typed wrappers for the Ethereum RPC API.
 type Client struct {

@@ -25,7 +25,6 @@ import (
 	"strings"
 
 	"github.com/AkashiFeng/s18node/accounts/abi/bind"
-	"github.com/AkashiFeng/s18node
 )
 
 var (

@@ -29,8 +29,6 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/log"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
 	"github.com/rcrowley/go-metrics"
 	"golang.org/x/net/websocket"
 )

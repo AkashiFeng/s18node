@@ -7,8 +7,7 @@ import (
 	"errors"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 func (l Log) MarshalJSON() ([]byte, error) {
 	type Log struct {

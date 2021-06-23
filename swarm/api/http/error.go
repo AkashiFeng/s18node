@@ -29,8 +29,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/log"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 //templateMap holds a mapping of an HTTP error code to a template
 var templateMap map[int]*template.Template

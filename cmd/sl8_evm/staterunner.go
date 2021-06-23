@@ -24,10 +24,7 @@ import (
 	"os"
 
 	"github.com/AkashiFeng/s18node/core/state"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-
+	
 	cli "gopkg.in/urfave/cli.v1"
 )
 

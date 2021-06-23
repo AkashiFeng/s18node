@@ -23,11 +23,7 @@ import (
 
 	"github.com/davecgh/go-spew/spew"
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 func TestDefaultGenesisBlock(t *testing.T) {
 	block, _ := DefaultGenesisBlock().ToBlock()

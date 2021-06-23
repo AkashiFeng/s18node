@@ -21,12 +21,7 @@ import (
 	"math/big"
 
 	"github.com/AkashiFeng/s18node/consensus/ethash"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 func ExampleGenerateChain() {
 	var (

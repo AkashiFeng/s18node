@@ -20,8 +20,7 @@ import (
 	"math/big"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // calculates the memory size required for a step
 func calcMemSize(off, l *big.Int) *big.Int {

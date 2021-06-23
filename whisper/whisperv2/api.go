@@ -23,8 +23,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-)ggithub.com/AkashiFeng/s18node
+	)ggithub.com/AkashiFeng/s18node
 
 // PublicWhisperAPI provides the whisper RPC service.
 type PublicWhisperAPI struct {

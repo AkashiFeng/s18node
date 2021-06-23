@@ -21,11 +21,7 @@ import (
 	"fmt"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 func NewState(ctx context.Context, head *types.Header, odr OdrBackend) *state.StateDB {
 	state, _ := state.New(head.Root, NewStateDatabase(ctx, head, odr))

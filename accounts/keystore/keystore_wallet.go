@@ -20,9 +20,7 @@ import (
 	"math/big"
 
 	ethereum "github.com/AkashiFeng/s18node"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // keystoreWallet implements the accounts.Wallet interface for the original
 // keystore.

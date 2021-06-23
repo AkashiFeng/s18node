@@ -20,10 +20,7 @@ import (
 	"math/big"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // FakePeer is a mock downloader peer that operates on a local database instance
 // instead of being an actual live node. It's useful for testing and to implement

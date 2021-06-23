@@ -22,8 +22,7 @@ import (
 	"testing"
 
 	"github.com/AkashiFeng/s18node/crypto"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 func generateMessageParams() (*MessageParams, error) {
 	// set all the parameters except p.Dst and p.Padding

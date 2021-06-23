@@ -35,12 +35,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/docker/docker/pkg/reexec"
 	"github.com/AkashiFeng/s18node/log"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
+	"github.com/AkashiFeng/s18node/p2p/discover"
+	"github.com/docker/docker/pkg/reexec"
 	"golang.org/x/net/websocket"
 )
 

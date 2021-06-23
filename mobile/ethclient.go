@@ -22,8 +22,7 @@ import (
 	"math/big"
 
 	"github.com/AkashiFeng/s18node/core/types"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // EthereumClient provides access to the Ethereum APIs.
 type EthereumClient struct {

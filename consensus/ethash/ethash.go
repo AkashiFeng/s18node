@@ -31,10 +31,8 @@ import (
 	"time"
 	"unsafe"
 
-	mmap "github.com/edsrzf/mmap-go"
 	"github.com/AkashiFeng/s18node/consensus"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
+	mmap "github.com/edsrzf/mmap-go"
 	metrics "github.com/rcrowley/go-metrics"
 )
 

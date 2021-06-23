@@ -29,10 +29,6 @@ import (
 	"strings"
 
 	"github.com/AkashiFeng/s18node/event"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
 	"github.com/julienschmidt/httprouter"
 	"golang.org/x/net/websocket"
 )

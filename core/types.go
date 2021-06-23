@@ -20,9 +20,7 @@ import (
 	"math/big"
 
 	"github.com/AkashiFeng/s18node/core/state"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // Validator is an interface which defines the standard for block validation. It
 // is only responsible for validating block contents, as the header validation is

@@ -20,8 +20,7 @@ import (
 	"math/big"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // StateDB is an EVM database for full state querying.
 type StateDB interface {

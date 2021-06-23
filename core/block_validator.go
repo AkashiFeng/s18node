@@ -21,11 +21,7 @@ import (
 	"math/big"
 
 	"github.com/AkashiFeng/s18node/common/math"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // BlockValidator is responsible for validating block headers, uncles and
 // processed state.

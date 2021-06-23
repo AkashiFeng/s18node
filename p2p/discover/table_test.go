@@ -28,8 +28,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 func TestTable_pingReplace(t *testing.T) {
 	doit := func(newNodeIsResponding, lastInBucketIsResponding bool) {

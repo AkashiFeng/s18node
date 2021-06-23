@@ -23,11 +23,7 @@ import (
 	"math/big"
 
 	"github.com/AkashiFeng/s18node"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // SignerFn is a signer function callback when a contract requires a method to
 // sign the transaction before submission.

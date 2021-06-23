@@ -28,13 +28,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/common/mclock"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 const (
 	// After a connection has been ended or timed out, there is a waiting period

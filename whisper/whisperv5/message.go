@@ -28,10 +28,7 @@ import (
 	"strconv"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // Options specifies the exact way a message should be wrapped into an Envelope.
 type MessageParams struct {

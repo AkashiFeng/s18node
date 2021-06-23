@@ -38,12 +38,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/contracts/chequebook"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	bzzswap "github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	bzzswap )
 
 const (
 	Version            = 0

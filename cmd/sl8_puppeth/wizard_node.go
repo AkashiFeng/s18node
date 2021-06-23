@@ -22,9 +22,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/accounts/keystore"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // deployNode creates a new node configuration based on some user input.
 func (w *wizard) deployNode(boot bool) {

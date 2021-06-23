@@ -23,8 +23,6 @@ import (
 	"path/filepath"
 
 	"github.com/AkashiFeng/s18node/cmd/utils"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
 	"gopkg.in/urfave/cli.v1"
 )
 

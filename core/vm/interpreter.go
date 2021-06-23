@@ -21,10 +21,7 @@ import (
 	"sync/atomic"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // Config are the configuration options for the Interpreter
 type Config struct {

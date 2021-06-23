@@ -24,8 +24,7 @@ import (
 	"fmt"
 
 	"github.com/AkashiFeng/s18node/common/math"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 func Ecrecover(hash, sig []byte) ([]byte, error) {
 	return secp256k1.RecoverPubkey(hash, sig)

@@ -24,8 +24,7 @@ import (
 	"testing"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // from bcValidBlockTest.json, "SimpleTx"
 func TestBlockEncoding(t *testing.T) {

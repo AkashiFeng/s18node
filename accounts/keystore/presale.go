@@ -26,7 +26,6 @@ import (
 	"fmt"
 
 	"github.com/AkashiFeng/s18node/accounts"
-	"github.com/AkashiFeng/s18node
 	"github.com/pborman/uuid"
 	"golang.org/x/crypto/pbkdf2"
 )

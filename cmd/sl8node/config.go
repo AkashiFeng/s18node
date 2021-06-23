@@ -29,13 +29,7 @@ import (
 	cli "gopkg.in/urfave/cli.v1"
 
 	"github.com/AkashiFeng/s18node/cmd/utils"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	whisper "github.com/AkashiFeng/s18node
-	"github.com/naoina/toml"
+	whisper "github.com/naoina/toml"
 )
 
 var (

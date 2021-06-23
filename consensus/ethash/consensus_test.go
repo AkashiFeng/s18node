@@ -24,9 +24,7 @@ import (
 	"testing"
 
 	"github.com/AkashiFeng/s18node/common/math"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 type diffTest struct {
 	ParentTimestamp    uint64

@@ -21,15 +21,12 @@ import (
 	"context"
 	"fmt"
 	"io"
+	"log"
 	"math/big"
 	"sync"
 	"time"
 
 	ethereum "github.com/AkashiFeng/s18node"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
 	"github.com/karalabe/hid"
 )
 

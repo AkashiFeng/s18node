@@ -22,10 +22,10 @@ import (
 	"io"
 	"sort"
 
-	"github.com/AkashiFeng/s18node/cmd/utils"
-	"github.com/AkashiFeng/s18node
-	"gopkg.in/urfave/cli.v1"
 	"strings"
+
+	"github.com/AkashiFeng/s18node/cmd/utils"
+	"gopkg.in/urfave/cli.v1"
 )
 
 // AppHelpTemplate is the test template for the default, global app help topic.

@@ -20,8 +20,7 @@ import (
 	"sync"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 type ltrInfo struct {
 	tx     *types.Transaction

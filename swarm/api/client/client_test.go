@@ -26,8 +26,7 @@ import (
 	"testing"
 
 	"github.com/AkashiFeng/s18node/swarm/api"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // TestClientUploadDownloadRaw test uploading and downloading raw data to swarm
 func TestClientUploadDownloadRaw(t *testing.T) {

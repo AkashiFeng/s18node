@@ -22,8 +22,7 @@ import (
 	"net/http"
 
 	"github.com/AkashiFeng/s18node/accounts/keystore"
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // deployFaucet queries the user for various input on deploying a faucet, after
 // which it executes it.

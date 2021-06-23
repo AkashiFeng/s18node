@@ -31,9 +31,7 @@ import (
 	check "gopkg.in/check.v1"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // Tests that updating a state trie does not leak any database writes prior to
 // actually committing the state.

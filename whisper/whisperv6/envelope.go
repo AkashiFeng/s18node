@@ -27,11 +27,7 @@ import (
 	"time"
 
 	"github.com/AkashiFeng/s18node/common"
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-	"github.com/AkashiFeng/s18node
-)
+	)
 
 // Envelope represents a clear-text data packet to transmit through the Whisper
 // network. Its contents may or may not be encrypted and signed.

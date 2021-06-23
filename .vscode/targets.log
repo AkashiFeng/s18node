@@ -8,7 +8,7 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 # This program built for i386-pc-mingw32
  
 
-# Make data base, printed on Mon Jun 21 13:05:30 2021
+# Make data base, printed on Thu Jun 24 07:35:08 2021
 
 # Variables
 
@@ -48,12 +48,11 @@ PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
 # makefile (from `makefile', line 1)
 MAKEFILE_LIST :=  makefile
 # environment
+FPS_BROWSER_USER_PROFILE_STRING = Default
+# environment
 VSCODE_NODE_CACHED_DATA_DIR = C:\Users\Rngr\AppData\Roaming\Code\CachedData\507ce72a4466fbb27b715c3722558bb15afa9f48
 # environment
-TMP = C:\Users\Rngr\AppData\Loca 
-l\Temp
-# environment
-VSCODE_AMD_ENTRYPOINT = vs/workbench/services/extensions/node/extensionHostProcess
+TMP = C:\Users\Rngr\AppData\Local\Temp
 # environment
 VSCODE_VERBOSE_LOGGING = true
 # environment
@@ -63,11 +62,9 @@ PROGRAMW6432 = C:\Program Files
 # environment
 PROGRAMDATA = C:\ProgramData
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-190d069c-f9fb-486f-9489-5cd830940ffd-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-3e5aa087-1514-4f46-94c6-fbd69d23c438-sock
 # environment
-VSCODE_CWD = C:\Users\Rngr\AppData\Local\Programs\Microsoft VS Code
-# environment
-GOPROXY = https://proxy.golang.org,direct
+VSCODE_CWD = C:\WINDOWS\System32
 # environment
 PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Java\jdk1.8.0_101\bin;G:\xampp\php;C:\ProgramData\ComposerSetup\bin;D:\android_sdk\tools;D:\android_sdk\platform-tools;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\Geth;C:\Program Files\Go\bin;C:\Program Files (x86)\GnuWin32\bin;C:\Users\Rngr\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Rngr\AppData\Local\Microsoft\WindowsApps;C:\Users\Rngr\AppData\Roaming\Composer\vendor\bin;C:\Users\Rngr\AppData\Local\GitHubDesktop\bin;C:\Users\Rngr\AppData\Roaming\npm;C:\Users\Rngr\go\bin
 # environment
@@ -75,8 +72,7 @@ COMMONPROGRAMW6432 = C:\Program Files\Common Files
 # environment
 PROCESSOR_ARCHITECTURE = x86
 # environment
-US 
-ERPROFILE = C:\Users\Rngr
+USERPROFILE = C:\Users\Rngr
 # environment
 ALLUSERSPROFILE = C:\ProgramData
 # environment
@@ -96,14 +92,14 @@ ANDROID_HOME = D:\android_sdk
 # makefile (from `makefile', line 11)
 GOBIN = $(shell pwd)/build/bin
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\cras 
-hpad_22336_HOVRNLAAOYHAXEAU
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_17104_BFAMECLJVJBKSVMV
 # environment
 VSCODE_PIPE_LOGGING = true
 # environment
 COMPUTERNAME = DESKTOP-HUSIU34
 # environment
-PROGRAMFILES = C:\Program Files (x86)
+PROG 
+RAMFILES = C:\Program Files (x86)
 # environment
 DRIVERDATA = C:\Windows\System32\Drivers\DriverData
 # environment
@@ -113,12 +109,11 @@ USERNAME = Rngr
 # environment
 PUBLIC = C:\Users\Public
 # environment
-GOMODCACHE = C:\Users\Rngr\go\pkg\mod
+VSCODE_AMD_ENTRYPOINT = vs/workbench/services/extensions/node/extensionHostProcess
 # environment
 APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
 # environment
-COMMONPROGRAMFILES = C:\Pr 
-ogram Files (x86)\Common Files
+COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
 # environment
 LOGONSERVER = \\DESKTOP-HUSIU34
 # environment
@@ -140,10 +135,10 @@ PROGRAMFILES(X86) = C:\Program Files (x86)
 # automatic
 %D = $(patsubst %/,%,$(dir $%))
 # environment
-LOCALAPPDATA = C:\Users\Rngr\AppData\ 
-Local
+LOCALAPPDATA = C:\Users\Rngr\AppData\Local
 # environment
-PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOW 
+S\system32\WindowsPowerShell\v1.0\Modules
 # default
 MAKE_COMMAND := make.exe
 # environment
@@ -160,8 +155,7 @@ OS = Windows_NT
 VSCODE_IPC_HOOK = \\.\pipe\c5114631813bba2af74db5aa02a4d2d9-1.57.1-main-sock
 # environment
 HOMEPATH = \Users\Rngr
-#  
-environment
+# environment
 COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
 # environment
 PROMPT = $P$G
@@ -185,13 +179,13 @@ COMSPEC = C:\WINDOWS\system32\cmd.exe
 MAKEFILES := 
 # automatic
 <F = $(notdir $<)
-# environme 
-nt
+# environment
 ANDROID_SDK_ROOT = D:\android_sdk
 # environment
 LC_ALL = C
 # automatic
-^F = $(notdir $^)
+^F = $(notdir 
+ $^)
 # default
 SUFFIXES := 
 # environment
@@ -207,51 +201,52 @@ LANG = C
 # environment
 PROCESSOR_LEVEL = 6
 # environment
-VSCODE_PID = 22336
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+# environment
+VSCODE_PID = 17104
 # environment
 USERDOMAIN_ROAMINGPROFILE = DESKTOP-HUSIU34
 # variable set hash-table stats:
-# Load=95/1024=9%, Rehash=0, Collisions=10/118=8%
+# Load=95/1024=9%, Rehash=0, Collisions=9/118=8%
 
-# Pattern-specific Variable V 
-alues
+# Pattern-specific Variable Values
 
-# No pattern-specific variable values.
+# No pattern-spe 
+cific variable values.
 
 # Directories
 
 # G:\xampp\php (key G:/xampp/php, mtime 1610850163): 64 files, no impossibilities.
 # C:\Program Files\Java\jdk1.8.0_101\bin (key C:/Program Files/Java/jdk1.8.0_101/bin, mtime 1603255040): 56 files, no impossibilities.
 # C:\Program Files\Go\bin (key C:/Program Files/Go/bin, mtime 1619735290): 4 files, no impossibilities.
-# C:\Users\Rngr\AppData\Local\Programs\Microsoft VS Code\bin (key C:/Users/Rngr/AppData/Local/Programs/Microsoft VS Code/bin, mt 
-ime 1623981134): 4 files, no impossibilities.
+# C:\Users\Rngr\AppData\Local\Programs\Microsoft VS Code\bin (key C:/Users/Rngr/AppData/Local/Programs/Microsoft VS Code/bin, mtime 1623981134): 4 file 
+s, no impossibilities.
 # C:\WINDOWS\System32\WindowsPowerShell\v1.0\ (key C:/WINDOWS/System32/WindowsPowerShell/v1.0/, mtime 1620617356): 30 files, no impossibilities.
 # C:\Users\Rngr\AppData\Roaming\npm (key C:/Users/Rngr/AppData/Roaming/npm, mtime 1621131492): 22 files, no impossibilities.
 # C:\WINDOWS\System32\Wbem (key C:/WINDOWS/System32/Wbem, mtime 1624247523): 170 files, no impossibilities.
 # . (key d:/WorkRep/s18node, mtime 1624248957): 51 files, no impossibilities.
-# C:\Users 
-\Rngr\AppData\Roaming\Composer\vendor\bin: could not be stat'd.
+# C:\Users\Rngr\AppData\Roaming\C 
+omposer\vendor\bin: could not be stat'd.
 # C:\Program Files\nodejs\ (key C:/Program Files/nodejs/, mtime 1618432770): 11 files, no impossibilities.
 # C:\Users\Rngr\AppData\Local\GitHubDesktop\bin (key C:/Users/Rngr/AppData/Local/GitHubDesktop/bin, mtime 1610478978): 4 files, no impossibilities.
 # C:\Users\Rngr\AppData\Local\Microsoft\WindowsApps (key C:/Users/Rngr/AppData/Local/Microsoft/WindowsApps, mtime 1624040055): 12 files, no impossibilities.
-# D:\android_sdk\tools (key D:/andro 
-id_sdk/tools, mtime 1566741661): 14 files, no impossibilities.
+# D:\android_sdk\tools (key D:/android_sdk/tools, mtime 1566741661): 14 files, no impossibilities.
 # C:\Program Files (x86)\VMware\VMware Workstation\bin\ (key C:/Program Files (x86)/VMware/VMware Workstation/bin/, mtime 1621567306): 4 files, no impossibilities.
 # C:\WINDOWS\System32\OpenSSH\: could not be stat'd.
 # C:\ProgramData\ComposerSetup\bin (key C:/ProgramData/ComposerSetup/bin, mtime 1606120001): 5 files, no impossibilities.
-# C:\Program Files (x86)\Common Files\Oracle\Java\javapath (key C:/Program Files (x86)/Common Files/Oracle/Jav 
-a/javapath, mtime 1619382200): 5 files, no impossibilities.
+# C:\Program Files (x86)\Common Files\Oracle\Java\javapath (key C:/Program Files (x86)/Common Files/Oracle/Java/javapath, mtime 16193 
+82200): 5 files, no impossibilities.
 # D:\android_sdk\platform-tools (key D:/android_sdk/platform-tools, mtime 1616897032): 20 files, no impossibilities.
 # C:\WINDOWS (key C:/WINDOWS, mtime 1624247504): 108 files, no impossibilities.
 # C:\ProgramData\Oracle\Java\javapath (key C:/ProgramData/Oracle/Java/javapath, mtime 1603296850): 5 files, no impossibilities.
 # C:\Users\Rngr\go\bin (key C:/Users/Rngr/go/bin, mtime 1624231217): 5 files, no impossibilities.
-# C:\Program Files\Geth (key  
-C:/Program Files/Geth, mtime 1619390381): 10 files, no impossibilities.
+# C:\Program Files\Geth (key C:/Program Files/Geth,  
+mtime 1619390381): 10 files, no impossibilities.
 # C:\Program Files\Git\cmd (key C:/Program Files/Git/cmd, mtime 1618388165): 8 files, no impossibilities.
-# C:\WINDOWS\system32 (key C:/WINDOWS/system32, mtime 1624248089): 2922 files, no impossibilities.
+# C:\WINDOWS\system32 (key C:/WINDOWS/system32, mtime 1624343492): 2922 files, no impossibilities.
 # C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static (key C:/Program Files (x86)/ATI Technologies/ATI.ACE/Core-Static, mtime 1618620036): 332 files, no impossibilities.
-# C:\Program Files (x86)\GnuWin32\bin (key C:/Program Fil 
-es (x86)/GnuWin32/bin, mtime 1624233122): 5 files, no impossibilities.
+# C:\Program Files (x86)\GnuWin32\bin (key C:/Program Files (x86)/GnuWin32/bin,  
+mtime 1624233122): 5 files, no impossibilities.
 
 # 3871 files, no impossibilities in 26 directories.
 
@@ -268,7 +263,8 @@ geth-linux-mips64:
 #  File has not been updated.
 #  commands to execute (from `makefile', line 107):
 	build/env.sh go run build/ci.go xgo -- --go=$(GO) --targets=linux/mips64 --ldflags '-extldflags "-static"' -v ./cmd/geth
-	@echo "Linux MIPS64 cross compilation done:"
+	@echo "Linux MIPS64 cross co 
+mpilation done:"
 	@ls -ld $(GOBIN)/geth-linux-* | grep mips64
 	
 
@@ -284,8 +280,7 @@ geth-linux-arm: geth-linux-arm-5 geth-linux-arm-6 geth-linux-arm-7 geth-linux-ar
 
 geth-linux-mips:
 #  Implicit rule search has not been done.
-#  
- Modification time never checked.
+#  Modification time never checked.
 #  File has not been updated.
 #  commands to execute (from `makefile', line 97):
 	build/env.sh go run build/ci.go xgo -- --go=$(GO) --targets=linux/mips --ldflags '-extldflags "-static"' -v ./cmd/geth
@@ -312,12 +307,12 @@ geth-windows-386:
 #  commands to execute (from `makefile', line 135):
 	build/env.sh go run build/ci.go xgo -- --go=$(GO) --targets=windows/386 -v ./cmd/geth
 	@echo "Windows 386 cross compilation done:"
-	@ls -ld $(GOBIN)/geth-windows-* 
- | grep 386
+	@ls -ld $(GOBIN)/geth-windows-* | grep 386
 	
 
 all:
-#  Phony target (prerequisite of .PHONY).
+#   
+Phony target (prerequisite of .PHONY).
 #  Command-line target.
 #  Implicit rule search has not been done.
 #  Implicit/static pattern stem: `'
@@ -342,8 +337,8 @@ all:
 # ? := 
 # variable set hash-table stats:
 # Load=8/32=25%, Rehash=0, Collisions=1/10=10%
-#  commands to exe 
-cute (from `makefile', line 25):
+#  commands to execute (from `makefile',  
+line 25):
 	build/env.sh go run build/ci.go install
 	
 
@@ -369,9 +364,9 @@ geth-linux-386:
 #  Modification time never checked.
 #  File has not been updated.
 
-#  
-Not a target:
-geth-android:
+# Not a target:
+geth-andr 
+oid:
 #  Implicit rule search has not been done.
 #  Modification time never checked.
 #  File has not been updated.
@@ -387,8 +382,7 @@ devtools:
 	env GOBIN= go install ./cmd/abigen
 	
 
-# 
- Not a target:
+# Not a target:
 geth-ios:
 #  Implicit rule search has not been done.
 #  Modification time never checked.
@@ -408,9 +402,9 @@ makefile:
 #  Implicit rule search has been done.
 #  Last modified 2018-03-09 09:05:38
 #  File has been updated.
-#  Succe 
-ssfully updated.
-# variable set hash-table stats:
+#  Successfully updated.
+# vari 
+able set hash-table stats:
 # Load=0/32=0%, Rehash=0, Collisions=0/0=0%
 
 android:
@@ -427,7 +421,8 @@ android:
 geth-windows-amd64:
 #  Phony target (prerequisite of .PHONY).
 #  Implicit rule search has not been done.
-#  File does not exist.
+#  Fil 
+e does not exist.
 #  File has not been updated.
 #  commands to execute (from `makefile', line 140):
 	build/env.sh go run build/ci.go xgo -- --go=$(GO) --targets=windows/amd64 -v ./cmd/geth
@@ -440,8 +435,7 @@ geth-linux-arm-5:
 #  Implicit rule search has not been done.
 #  File does not exist.
 #  File has not been updated.
-#  commands to execute (from `makefile', line 7 
-7):
+#  commands to execute (from `makefile', line 77):
 	build/env.sh go run build/ci.go xgo -- --go=$(GO) --targets=linux/arm-5 -v ./cmd/geth
 	@echo "Linux ARMv5 cross compilation done:"
 	@ls -ld $(GOBIN)/geth-linux-* | grep arm-5
@@ -458,7 +452,8 @@ geth-cross: geth-linux geth-darwin geth-windows geth-android geth-ios
 	
 
 evm:
-#  Phony target (prerequisite of .PHONY).
+#  Phony target (prer 
+equisite of .PHONY).
 #  Implicit rule search has not been done.
 #  File does not exist.
 #  File has not been updated.
@@ -471,8 +466,7 @@ geth-linux-amd64:
 #  commands to execute (from `makefile', line 68):
 	build/env.sh go run build/ci.go xgo -- --go=$(GO) --targets=linux/amd64 -v ./cmd/geth
 	@echo "Linux amd64 cross compilation done:"
-	@ls -ld $(GOBIN)/geth-linux-* 
- | grep amd64
+	@ls -ld $(GOBIN)/geth-linux-* | grep amd64
 	
 
 geth-linux-mipsle:
@@ -488,7 +482,8 @@ geth-linux-mipsle:
 geth-linux-mips64le:
 #  Phony target (prerequisite of .PHONY).
 #  Implicit rule search has not been done.
-#  File does not exist.
+#  File does not 
+ exist.
 #  File has not been updated.
 #  commands to execute (from `makefile', line 112):
 	build/env.sh go run build/ci.go xgo -- --go=$(GO) --targets=linux/mips64le --ldflags '-extldflags "-static"' -v ./cmd/geth
@@ -501,8 +496,7 @@ geth-darwin-386:
 #  Implicit rule search has not been done.
 #  File does not exist.
 #  File has not been updated.
-#  commands to execut 
-e (from `makefile', line 121):
+#  commands to execute (from `makefile', line 121):
 	build/env.sh go run build/ci.go xgo -- --go=$(GO) --targets=darwin/386 -v ./cmd/geth
 	@echo "Darwin 386 cross compilation done:"
 	@ls -ld $(GOBIN)/geth-darwin-* | grep 386
@@ -534,9 +528,9 @@ geth-linux: geth-linux-386 geth-linux-amd64 geth-linux-arm geth-linux-mips64 get
 	@ls -ld $(GOBIN)/geth-linux-*
 	
 
-ge 
-th-linux-arm-7:
-#  Phony target (prerequisite of .PHONY).
+geth-linux-arm-7:
+#  Phon 
+y target (prerequisite of .PHONY).
 #  Implicit rule search has not been done.
 #  File does not exist.
 #  File has not been updated.
@@ -550,7 +544,6 @@ geth-linux-arm64:
 #  Phony target (prerequisite of .PHONY).
 #  Implicit rule search has not been done.
 #  File does not exist.
- 
 #  File has not been updated.
 #  commands to execute (from `makefile', line 92):
 	build/env.sh go run build/ci.go xgo -- --go=$(GO) --targets=linux/arm64 -v ./cmd/geth
@@ -568,7 +561,8 @@ clean:
 	
 
 geth-darwin-amd64:
-#  Phony target (prerequisite of .PHONY).
+#  Phony target 
+ (prerequisite of .PHONY).
 #  Implicit rule search has not been done.
 #  File does not exist.
 #  File has not been updated.
@@ -582,8 +576,7 @@ geth-linux-arm-6:
 #  Phony target (prerequisite of .PHONY).
 #  Implicit rule search has not been done.
 #  File does not exist.
-#  F 
-ile has not been updated.
+#  File has not been updated.
 #  commands to execute (from `makefile', line 82):
 	build/env.sh go run build/ci.go xgo -- --go=$(GO) --targets=linux/arm-6 -v ./cmd/geth
 	@echo "Linux ARMv6 cross compilation done:"
@@ -598,7 +591,8 @@ geth:
 #  commands to execute (from `makefile', line 15):
 	build/env.sh go run build/ci.go install ./cmd/geth
 	@echo "Done building."
-	@echo "Run \"$(GOBIN)/geth\" to launch geth."
+	@echo  
+"Run \"$(GOBIN)/geth\" to launch geth."
 	
 
 geth-darwin: geth-darwin-386 geth-darwin-amd64
@@ -615,9 +609,9 @@ ios:
 #  Phony target (prerequisite of .PHONY).
 #  Implicit rule search has not been done.
 #  File does not exist.
-#  File has not bee 
-n updated.
-#  commands to execute (from `makefile', line 33):
+#  File has not been updated.
+#  commands  
+to execute (from `makefile', line 33):
 	build/env.sh go run build/ci.go xcode --local
 	@echo "Done building."
 	@echo "Import \"$(GOBIN)/Geth.framework\" to use the library."
@@ -634,9 +628,8 @@ n updated.
 # # of strings in strcache: 1
 # # of strcache buffers: 1
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
-# strcache free: 
- total = 4087 / max = 4087 / min = 4087 / avg = 4087
+# strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Mon Jun 21 13:05:30 2021
+# Finished Make data base on Thu Jun 24 07:35:08 2021
 
  
